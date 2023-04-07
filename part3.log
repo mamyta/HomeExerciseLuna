@@ -1,0 +1,6 @@
+INFO:root:Starting Part 3
+INFO:root:Report saved to file
+INFO:googleapiclient.discovery_cache:file_cache is only supported with oauth2client<4.0.0
+DEBUG:googleapiclient.discovery:URL being requested: POST https://www.googleapis.com/upload/drive/v3/files?fields=webViewLink&alt=json&uploadType=resumable
+INFO:root:File URL: https://drive.google.com/file/d/12WzoDjvkCp1h6Q9kgwOrCPRXJPyygUHZ/view?usp=drivesdk
+INFO:root:Report uploaded to Google Drive: https://drive.google.com/file/d/12WzoDjvkCp1h6Q9kgwOrCPRXJPyygUHZ/view?usp=drivesdk

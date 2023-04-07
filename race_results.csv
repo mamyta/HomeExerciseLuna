@@ -1,0 +1,1080 @@
+Race ID,Race Date,Circuit Name,Position 1 Driver Name,Position 2 Driver Name,Position 3 Driver Name,Time
+18,2008-03-16,Albert Park Grand Prix Circuit,Lewis Hamilton,Nick Heidfeld,Nico Rosberg,\N
+19,2008-03-23,Sepang International Circuit,Kimi Räikkönen,Robert Kubica,Heikki Kovalainen,\N
+20,2008-04-06,Bahrain International Circuit,Felipe Massa,Kimi Räikkönen,Robert Kubica,\N
+21,2008-04-27,Circuit de Barcelona-Catalunya,Kimi Räikkönen,Felipe Massa,Lewis Hamilton,\N
+22,2008-05-11,Istanbul Park,Felipe Massa,Lewis Hamilton,Kimi Räikkönen,\N
+23,2008-05-25,Circuit de Monaco,Lewis Hamilton,Robert Kubica,Felipe Massa,\N
+24,2008-06-08,Circuit Gilles Villeneuve,Robert Kubica,Nick Heidfeld,David Coulthard,\N
+25,2008-06-22,Circuit de Nevers Magny-Cours,Felipe Massa,Kimi Räikkönen,Jarno Trulli,\N
+26,2008-07-06,Silverstone Circuit,Lewis Hamilton,Nick Heidfeld,Rubens Barrichello,\N
+27,2008-07-20,Hockenheimring,Lewis Hamilton,Nelson Piquet Jr.,Felipe Massa,\N
+28,2008-08-03,Hungaroring,Heikki Kovalainen,Timo Glock,Kimi Räikkönen,\N
+29,2008-08-24,Valencia Street Circuit,Felipe Massa,Lewis Hamilton,Robert Kubica,\N
+30,2008-09-07,Circuit de Spa-Francorchamps,Felipe Massa,Nick Heidfeld,Lewis Hamilton,\N
+31,2008-09-14,Autodromo Nazionale di Monza,Sebastian Vettel,Heikki Kovalainen,Robert Kubica,\N
+32,2008-09-28,Marina Bay Street Circuit,Fernando Alonso,Nico Rosberg,Lewis Hamilton,\N
+33,2008-10-12,Fuji Speedway,Fernando Alonso,Robert Kubica,Kimi Räikkönen,\N
+34,2008-10-19,Shanghai International Circuit,Lewis Hamilton,Felipe Massa,Kimi Räikkönen,\N
+35,2008-11-02,Autódromo José Carlos Pace,Felipe Massa,Fernando Alonso,Kimi Räikkönen,\N
+36,2007-03-18,Albert Park Grand Prix Circuit,Kimi Räikkönen,Fernando Alonso,Lewis Hamilton,\N
+37,2007-04-08,Sepang International Circuit,Fernando Alonso,Lewis Hamilton,Kimi Räikkönen,\N
+38,2007-04-15,Bahrain International Circuit,Felipe Massa,Lewis Hamilton,Kimi Räikkönen,\N
+39,2007-05-13,Circuit de Barcelona-Catalunya,Felipe Massa,Lewis Hamilton,Fernando Alonso,\N
+40,2007-05-27,Circuit de Monaco,Fernando Alonso,Lewis Hamilton,Felipe Massa,\N
+41,2007-06-10,Circuit Gilles Villeneuve,Lewis Hamilton,Nick Heidfeld,Alexander Wurz,\N
+42,2007-06-17,Indianapolis Motor Speedway,Lewis Hamilton,Fernando Alonso,Felipe Massa,\N
+43,2007-07-01,Circuit de Nevers Magny-Cours,Kimi Räikkönen,Felipe Massa,Lewis Hamilton,\N
+44,2007-07-08,Silverstone Circuit,Kimi Räikkönen,Fernando Alonso,Lewis Hamilton,\N
+45,2007-07-22,Nürburgring,Fernando Alonso,Felipe Massa,Mark Webber,\N
+46,2007-08-05,Hungaroring,Lewis Hamilton,Kimi Räikkönen,Nick Heidfeld,\N
+47,2007-08-26,Istanbul Park,Felipe Massa,Kimi Räikkönen,Fernando Alonso,\N
+48,2007-09-09,Autodromo Nazionale di Monza,Fernando Alonso,Lewis Hamilton,Kimi Räikkönen,\N
+49,2007-09-16,Circuit de Spa-Francorchamps,Kimi Räikkönen,Felipe Massa,Fernando Alonso,\N
+50,2007-09-30,Fuji Speedway,Lewis Hamilton,Heikki Kovalainen,Kimi Räikkönen,\N
+51,2007-10-07,Shanghai International Circuit,Kimi Räikkönen,Fernando Alonso,Felipe Massa,\N
+52,2007-10-21,Autódromo José Carlos Pace,Kimi Räikkönen,Felipe Massa,Fernando Alonso,\N
+53,2006-03-12,Bahrain International Circuit,Fernando Alonso,Michael Schumacher,Kimi Räikkönen,\N
+54,2006-03-19,Sepang International Circuit,Giancarlo Fisichella,Fernando Alonso,Jenson Button,\N
+55,2006-04-02,Albert Park Grand Prix Circuit,Fernando Alonso,Kimi Räikkönen,Ralf Schumacher,\N
+56,2006-04-23,Autodromo Enzo e Dino Ferrari,Michael Schumacher,Fernando Alonso,Juan Pablo Montoya,\N
+57,2006-05-07,Nürburgring,Michael Schumacher,Fernando Alonso,Felipe Massa,\N
+58,2006-05-14,Circuit de Barcelona-Catalunya,Fernando Alonso,Michael Schumacher,Giancarlo Fisichella,\N
+59,2006-05-28,Circuit de Monaco,Fernando Alonso,Juan Pablo Montoya,David Coulthard,\N
+60,2006-06-11,Silverstone Circuit,Fernando Alonso,Michael Schumacher,Kimi Räikkönen,\N
+61,2006-06-25,Circuit Gilles Villeneuve,Fernando Alonso,Michael Schumacher,Kimi Räikkönen,\N
+62,2006-07-02,Indianapolis Motor Speedway,Michael Schumacher,Felipe Massa,Giancarlo Fisichella,\N
+63,2006-07-16,Circuit de Nevers Magny-Cours,Michael Schumacher,Fernando Alonso,Felipe Massa,\N
+64,2006-07-30,Hockenheimring,Michael Schumacher,Felipe Massa,Kimi Räikkönen,\N
+65,2006-08-06,Hungaroring,Jenson Button,Pedro de la Rosa,Nick Heidfeld,\N
+66,2006-08-27,Istanbul Park,Felipe Massa,Fernando Alonso,Michael Schumacher,\N
+67,2006-09-10,Autodromo Nazionale di Monza,Michael Schumacher,Kimi Räikkönen,Robert Kubica,\N
+68,2006-10-01,Shanghai International Circuit,Michael Schumacher,Fernando Alonso,Giancarlo Fisichella,\N
+69,2006-10-08,Suzuka Circuit,Fernando Alonso,Felipe Massa,Giancarlo Fisichella,\N
+70,2006-10-22,Autódromo José Carlos Pace,Felipe Massa,Fernando Alonso,Jenson Button,\N
+71,2005-03-06,Albert Park Grand Prix Circuit,Giancarlo Fisichella,Rubens Barrichello,Fernando Alonso,\N
+72,2005-03-20,Sepang International Circuit,Fernando Alonso,Jarno Trulli,Nick Heidfeld,\N
+73,2005-04-03,Bahrain International Circuit,Fernando Alonso,Jarno Trulli,Kimi Räikkönen,\N
+74,2005-04-24,Autodromo Enzo e Dino Ferrari,Fernando Alonso,Michael Schumacher,Alexander Wurz,+34.7
+75,2005-05-08,Circuit de Barcelona-Catalunya,Kimi Räikkönen,Fernando Alonso,Jarno Trulli,\N
+76,2005-05-22,Circuit de Monaco,Kimi Räikkönen,Nick Heidfeld,Mark Webber,\N
+77,2005-05-29,Nürburgring,Fernando Alonso,Nick Heidfeld,Rubens Barrichello,\N
+78,2005-06-12,Circuit Gilles Villeneuve,Kimi Räikkönen,Michael Schumacher,Rubens Barrichello,\N
+79,2005-06-19,Indianapolis Motor Speedway,Michael Schumacher,Rubens Barrichello,Tiago Monteiro,\N
+80,2005-07-03,Circuit de Nevers Magny-Cours,Fernando Alonso,Kimi Räikkönen,Michael Schumacher,\N
+81,2005-07-10,Silverstone Circuit,Juan Pablo Montoya,Fernando Alonso,Kimi Räikkönen,\N
+82,2005-07-24,Hockenheimring,Fernando Alonso,Juan Pablo Montoya,Jenson Button,\N
+83,2005-07-31,Hungaroring,Kimi Räikkönen,Michael Schumacher,Ralf Schumacher,\N
+84,2005-08-21,Istanbul Park,Kimi Räikkönen,Fernando Alonso,Juan Pablo Montoya,\N
+85,2005-09-04,Autodromo Nazionale di Monza,Juan Pablo Montoya,Fernando Alonso,Giancarlo Fisichella,\N
+86,2005-09-11,Circuit de Spa-Francorchamps,Kimi Räikkönen,Fernando Alonso,Jenson Button,\N
+87,2005-09-25,Autódromo José Carlos Pace,Juan Pablo Montoya,Kimi Räikkönen,Fernando Alonso,\N
+88,2005-10-09,Suzuka Circuit,Kimi Räikkönen,Giancarlo Fisichella,Fernando Alonso,\N
+89,2005-10-16,Shanghai International Circuit,Fernando Alonso,Kimi Räikkönen,Ralf Schumacher,\N
+90,2004-03-07,Albert Park Grand Prix Circuit,Michael Schumacher,Rubens Barrichello,Fernando Alonso,\N
+91,2004-03-21,Sepang International Circuit,Michael Schumacher,Juan Pablo Montoya,Jenson Button,\N
+92,2004-04-04,Bahrain International Circuit,Michael Schumacher,Rubens Barrichello,Jenson Button,\N
+93,2004-04-25,Autodromo Enzo e Dino Ferrari,Michael Schumacher,Jenson Button,Juan Pablo Montoya,\N
+94,2004-05-09,Circuit de Barcelona-Catalunya,Michael Schumacher,Rubens Barrichello,Jarno Trulli,\N
+95,2004-05-23,Circuit de Monaco,Jarno Trulli,Jenson Button,Rubens Barrichello,\N
+96,2004-05-30,Nürburgring,Michael Schumacher,Rubens Barrichello,Jenson Button,\N
+97,2004-06-13,Circuit Gilles Villeneuve,Michael Schumacher,Rubens Barrichello,Jenson Button,\N
+98,2004-06-20,Indianapolis Motor Speedway,Michael Schumacher,Rubens Barrichello,Takuma Sato,\N
+99,2004-07-04,Circuit de Nevers Magny-Cours,Michael Schumacher,Fernando Alonso,Rubens Barrichello,\N
+100,2004-07-11,Silverstone Circuit,Michael Schumacher,Kimi Räikkönen,Rubens Barrichello,\N
+101,2004-07-25,Hockenheimring,Michael Schumacher,Jenson Button,Fernando Alonso,\N
+102,2004-08-15,Hungaroring,Michael Schumacher,Rubens Barrichello,Fernando Alonso,\N
+103,2004-08-29,Circuit de Spa-Francorchamps,Kimi Räikkönen,Michael Schumacher,Rubens Barrichello,\N
+104,2004-09-12,Autodromo Nazionale di Monza,Rubens Barrichello,Michael Schumacher,Jenson Button,\N
+105,2004-09-26,Shanghai International Circuit,Rubens Barrichello,Jenson Button,Kimi Räikkönen,\N
+106,2004-10-10,Suzuka Circuit,Michael Schumacher,Ralf Schumacher,Jenson Button,\N
+107,2004-10-24,Autódromo José Carlos Pace,Juan Pablo Montoya,Kimi Räikkönen,Rubens Barrichello,\N
+108,2003-03-09,Albert Park Grand Prix Circuit,David Coulthard,Juan Pablo Montoya,Kimi Räikkönen,\N
+109,2003-03-23,Sepang International Circuit,Kimi Räikkönen,Rubens Barrichello,Fernando Alonso,\N
+110,2003-04-06,Autódromo José Carlos Pace,Giancarlo Fisichella,Kimi Räikkönen,Fernando Alonso,\N
+111,2003-04-20,Autodromo Enzo e Dino Ferrari,Michael Schumacher,Kimi Räikkönen,Rubens Barrichello,\N
+112,2003-05-04,Circuit de Barcelona-Catalunya,Michael Schumacher,Fernando Alonso,Rubens Barrichello,\N
+113,2003-05-18,Red Bull Ring,Michael Schumacher,Kimi Räikkönen,Rubens Barrichello,\N
+114,2003-06-01,Circuit de Monaco,Juan Pablo Montoya,Kimi Räikkönen,Michael Schumacher,\N
+115,2003-06-15,Circuit Gilles Villeneuve,Michael Schumacher,Ralf Schumacher,Juan Pablo Montoya,\N
+116,2003-06-29,Nürburgring,Ralf Schumacher,Juan Pablo Montoya,Rubens Barrichello,\N
+117,2003-07-06,Circuit de Nevers Magny-Cours,Ralf Schumacher,Juan Pablo Montoya,Michael Schumacher,\N
+118,2003-07-20,Silverstone Circuit,Rubens Barrichello,Juan Pablo Montoya,Kimi Räikkönen,\N
+119,2003-08-03,Hockenheimring,Juan Pablo Montoya,David Coulthard,Jarno Trulli,\N
+120,2003-08-24,Hungaroring,Fernando Alonso,Kimi Räikkönen,Juan Pablo Montoya,\N
+121,2003-09-14,Autodromo Nazionale di Monza,Michael Schumacher,Juan Pablo Montoya,Rubens Barrichello,\N
+122,2003-09-28,Indianapolis Motor Speedway,Michael Schumacher,Kimi Räikkönen,Heinz-Harald Frentzen,\N
+123,2003-10-12,Suzuka Circuit,Rubens Barrichello,Kimi Räikkönen,David Coulthard,\N
+124,2002-03-03,Albert Park Grand Prix Circuit,Michael Schumacher,Juan Pablo Montoya,Kimi Räikkönen,\N
+125,2002-03-17,Sepang International Circuit,Ralf Schumacher,Juan Pablo Montoya,Michael Schumacher,\N
+126,2002-03-31,Autódromo José Carlos Pace,Michael Schumacher,Ralf Schumacher,David Coulthard,\N
+127,2002-04-14,Autodromo Enzo e Dino Ferrari,Michael Schumacher,Rubens Barrichello,Ralf Schumacher,\N
+128,2002-04-28,Circuit de Barcelona-Catalunya,Michael Schumacher,Juan Pablo Montoya,David Coulthard,\N
+129,2002-05-12,Red Bull Ring,Michael Schumacher,Rubens Barrichello,Juan Pablo Montoya,\N
+130,2002-05-26,Circuit de Monaco,David Coulthard,Michael Schumacher,Ralf Schumacher,\N
+131,2002-06-09,Circuit Gilles Villeneuve,Michael Schumacher,David Coulthard,Rubens Barrichello,\N
+132,2002-06-23,Nürburgring,Rubens Barrichello,Michael Schumacher,Kimi Räikkönen,\N
+133,2002-07-07,Silverstone Circuit,Michael Schumacher,Rubens Barrichello,Juan Pablo Montoya,\N
+134,2002-07-21,Circuit de Nevers Magny-Cours,Michael Schumacher,Kimi Räikkönen,David Coulthard,\N
+135,2002-07-28,Hockenheimring,Michael Schumacher,Juan Pablo Montoya,Ralf Schumacher,\N
+136,2002-08-18,Hungaroring,Rubens Barrichello,Michael Schumacher,Ralf Schumacher,\N
+137,2002-09-01,Circuit de Spa-Francorchamps,Michael Schumacher,Rubens Barrichello,Juan Pablo Montoya,\N
+138,2002-09-15,Autodromo Nazionale di Monza,Rubens Barrichello,Michael Schumacher,Eddie Irvine,\N
+139,2002-09-29,Indianapolis Motor Speedway,Rubens Barrichello,Michael Schumacher,David Coulthard,\N
+140,2002-10-13,Suzuka Circuit,Michael Schumacher,Rubens Barrichello,Kimi Räikkönen,\N
+141,2001-03-04,Albert Park Grand Prix Circuit,Michael Schumacher,David Coulthard,Rubens Barrichello,\N
+142,2001-03-18,Sepang International Circuit,Michael Schumacher,Rubens Barrichello,David Coulthard,\N
+143,2001-04-01,Autódromo José Carlos Pace,David Coulthard,Michael Schumacher,Nick Heidfeld,\N
+144,2001-04-15,Autodromo Enzo e Dino Ferrari,Ralf Schumacher,David Coulthard,Rubens Barrichello,\N
+145,2001-04-29,Circuit de Barcelona-Catalunya,Michael Schumacher,Juan Pablo Montoya,Jacques Villeneuve,\N
+146,2001-05-13,Red Bull Ring,David Coulthard,Michael Schumacher,Rubens Barrichello,\N
+147,2001-05-27,Circuit de Monaco,Michael Schumacher,Rubens Barrichello,Eddie Irvine,\N
+148,2001-06-10,Circuit Gilles Villeneuve,Ralf Schumacher,Michael Schumacher,Mika Häkkinen,\N
+149,2001-06-24,Nürburgring,Michael Schumacher,Juan Pablo Montoya,David Coulthard,\N
+150,2001-07-01,Circuit de Nevers Magny-Cours,Michael Schumacher,Ralf Schumacher,Rubens Barrichello,\N
+151,2001-07-15,Silverstone Circuit,Mika Häkkinen,Michael Schumacher,Rubens Barrichello,\N
+152,2001-07-29,Hockenheimring,Ralf Schumacher,Rubens Barrichello,Jacques Villeneuve,\N
+153,2001-08-19,Hungaroring,Michael Schumacher,Rubens Barrichello,David Coulthard,\N
+154,2001-09-02,Circuit de Spa-Francorchamps,Michael Schumacher,David Coulthard,Giancarlo Fisichella,\N
+155,2001-09-16,Autodromo Nazionale di Monza,Juan Pablo Montoya,Rubens Barrichello,Ralf Schumacher,\N
+156,2001-09-30,Indianapolis Motor Speedway,Mika Häkkinen,Michael Schumacher,David Coulthard,\N
+157,2001-10-14,Suzuka Circuit,Michael Schumacher,Juan Pablo Montoya,David Coulthard,\N
+158,2000-03-12,Albert Park Grand Prix Circuit,Michael Schumacher,Rubens Barrichello,Ralf Schumacher,\N
+159,2000-03-26,Autódromo José Carlos Pace,Michael Schumacher,Giancarlo Fisichella,Heinz-Harald Frentzen,\N
+160,2000-04-09,Autodromo Enzo e Dino Ferrari,Michael Schumacher,Mika Häkkinen,David Coulthard,\N
+161,2000-04-23,Silverstone Circuit,David Coulthard,Mika Häkkinen,Michael Schumacher,\N
+162,2000-05-07,Circuit de Barcelona-Catalunya,Mika Häkkinen,David Coulthard,Rubens Barrichello,\N
+163,2000-05-21,Nürburgring,Michael Schumacher,Mika Häkkinen,David Coulthard,\N
+164,2000-06-04,Circuit de Monaco,David Coulthard,Rubens Barrichello,Giancarlo Fisichella,\N
+165,2000-06-18,Circuit Gilles Villeneuve,Michael Schumacher,Rubens Barrichello,Giancarlo Fisichella,\N
+166,2000-07-02,Circuit de Nevers Magny-Cours,David Coulthard,Mika Häkkinen,Rubens Barrichello,\N
+167,2000-07-16,Red Bull Ring,Mika Häkkinen,David Coulthard,Rubens Barrichello,\N
+168,2000-07-30,Hockenheimring,Rubens Barrichello,Mika Häkkinen,David Coulthard,\N
+169,2000-08-13,Hungaroring,Mika Häkkinen,Michael Schumacher,David Coulthard,\N
+170,2000-08-27,Circuit de Spa-Francorchamps,Mika Häkkinen,Michael Schumacher,Ralf Schumacher,\N
+171,2000-09-10,Autodromo Nazionale di Monza,Michael Schumacher,Mika Häkkinen,Ralf Schumacher,\N
+172,2000-09-24,Indianapolis Motor Speedway,Michael Schumacher,Rubens Barrichello,Heinz-Harald Frentzen,\N
+173,2000-10-08,Suzuka Circuit,Michael Schumacher,Mika Häkkinen,David Coulthard,\N
+174,2000-10-22,Sepang International Circuit,Michael Schumacher,David Coulthard,Rubens Barrichello,\N
+175,1999-03-07,Albert Park Grand Prix Circuit,Eddie Irvine,Heinz-Harald Frentzen,Ralf Schumacher,\N
+176,1999-04-11,Autódromo José Carlos Pace,Mika Häkkinen,Michael Schumacher,Heinz-Harald Frentzen,\N
+177,1999-05-02,Autodromo Enzo e Dino Ferrari,Michael Schumacher,David Coulthard,Rubens Barrichello,\N
+178,1999-05-16,Circuit de Monaco,Michael Schumacher,Eddie Irvine,Mika Häkkinen,\N
+179,1999-05-30,Circuit de Barcelona-Catalunya,Mika Häkkinen,David Coulthard,Michael Schumacher,\N
+180,1999-06-13,Circuit Gilles Villeneuve,Mika Häkkinen,Giancarlo Fisichella,Eddie Irvine,\N
+181,1999-06-27,Circuit de Nevers Magny-Cours,Heinz-Harald Frentzen,Mika Häkkinen,Rubens Barrichello,\N
+182,1999-07-11,Silverstone Circuit,David Coulthard,Eddie Irvine,Ralf Schumacher,\N
+183,1999-07-25,Red Bull Ring,Eddie Irvine,David Coulthard,Mika Häkkinen,\N
+184,1999-08-01,Hockenheimring,Eddie Irvine,Mika Salo,Heinz-Harald Frentzen,\N
+185,1999-08-15,Hungaroring,Mika Häkkinen,David Coulthard,Eddie Irvine,\N
+186,1999-08-29,Circuit de Spa-Francorchamps,David Coulthard,Mika Häkkinen,Heinz-Harald Frentzen,\N
+187,1999-09-12,Autodromo Nazionale di Monza,Heinz-Harald Frentzen,Ralf Schumacher,Mika Salo,\N
+188,1999-09-26,Nürburgring,Johnny Herbert,Jarno Trulli,Rubens Barrichello,\N
+189,1999-10-17,Sepang International Circuit,Eddie Irvine,Michael Schumacher,Mika Häkkinen,\N
+190,1999-10-31,Suzuka Circuit,Mika Häkkinen,Michael Schumacher,Eddie Irvine,\N
+191,1998-03-08,Albert Park Grand Prix Circuit,Mika Häkkinen,David Coulthard,Heinz-Harald Frentzen,\N
+192,1998-03-29,Autódromo José Carlos Pace,Mika Häkkinen,David Coulthard,Michael Schumacher,\N
+193,1998-04-12,Autódromo Juan y Oscar Gálvez,Michael Schumacher,Mika Häkkinen,Eddie Irvine,\N
+194,1998-04-26,Autodromo Enzo e Dino Ferrari,David Coulthard,Michael Schumacher,Eddie Irvine,\N
+195,1998-05-10,Circuit de Barcelona-Catalunya,Mika Häkkinen,David Coulthard,Michael Schumacher,\N
+196,1998-05-24,Circuit de Monaco,Mika Häkkinen,Giancarlo Fisichella,Eddie Irvine,\N
+197,1998-06-07,Circuit Gilles Villeneuve,Michael Schumacher,Giancarlo Fisichella,Eddie Irvine,\N
+198,1998-06-28,Circuit de Nevers Magny-Cours,Michael Schumacher,Eddie Irvine,Mika Häkkinen,\N
+199,1998-07-12,Silverstone Circuit,Michael Schumacher,Mika Häkkinen,Eddie Irvine,\N
+200,1998-07-26,Red Bull Ring,Mika Häkkinen,David Coulthard,Michael Schumacher,\N
+201,1998-08-02,Hockenheimring,Mika Häkkinen,David Coulthard,Jacques Villeneuve,\N
+202,1998-08-16,Hungaroring,Michael Schumacher,David Coulthard,Jacques Villeneuve,\N
+203,1998-08-30,Circuit de Spa-Francorchamps,Damon Hill,Ralf Schumacher,Jean Alesi,\N
+204,1998-09-13,Autodromo Nazionale di Monza,Michael Schumacher,Eddie Irvine,Ralf Schumacher,\N
+205,1998-09-27,Nürburgring,Mika Häkkinen,Michael Schumacher,David Coulthard,\N
+206,1998-11-01,Suzuka Circuit,Mika Häkkinen,Eddie Irvine,David Coulthard,\N
+207,1997-03-09,Albert Park Grand Prix Circuit,David Coulthard,Michael Schumacher,Mika Häkkinen,\N
+208,1997-03-30,Autódromo José Carlos Pace,Jacques Villeneuve,Gerhard Berger,Olivier Panis,\N
+209,1997-04-13,Autódromo Juan y Oscar Gálvez,Jacques Villeneuve,Eddie Irvine,Ralf Schumacher,\N
+210,1997-04-27,Autodromo Enzo e Dino Ferrari,Heinz-Harald Frentzen,Michael Schumacher,Eddie Irvine,\N
+211,1997-05-11,Circuit de Monaco,Michael Schumacher,Rubens Barrichello,Eddie Irvine,\N
+212,1997-05-25,Circuit de Barcelona-Catalunya,Jacques Villeneuve,Olivier Panis,Jean Alesi,\N
+213,1997-06-15,Circuit Gilles Villeneuve,Michael Schumacher,Jean Alesi,Giancarlo Fisichella,\N
+214,1997-06-29,Circuit de Nevers Magny-Cours,Michael Schumacher,Heinz-Harald Frentzen,Eddie Irvine,\N
+215,1997-07-13,Silverstone Circuit,Jacques Villeneuve,Jean Alesi,Alexander Wurz,\N
+216,1997-07-27,Hockenheimring,Gerhard Berger,Michael Schumacher,Mika Häkkinen,\N
+217,1997-08-10,Hungaroring,Jacques Villeneuve,Damon Hill,Johnny Herbert,\N
+218,1997-08-24,Circuit de Spa-Francorchamps,Michael Schumacher,Giancarlo Fisichella,Heinz-Harald Frentzen,\N
+219,1997-09-07,Autodromo Nazionale di Monza,David Coulthard,Jean Alesi,Heinz-Harald Frentzen,\N
+220,1997-09-21,Red Bull Ring,Jacques Villeneuve,David Coulthard,Heinz-Harald Frentzen,\N
+221,1997-09-28,Nürburgring,Jacques Villeneuve,Jean Alesi,Heinz-Harald Frentzen,\N
+222,1997-10-12,Suzuka Circuit,Michael Schumacher,Heinz-Harald Frentzen,Eddie Irvine,\N
+223,1997-10-26,Circuito de Jerez,Mika Häkkinen,David Coulthard,Jacques Villeneuve,\N
+224,1996-03-10,Albert Park Grand Prix Circuit,Damon Hill,Jacques Villeneuve,Eddie Irvine,\N
+225,1996-03-31,Autódromo José Carlos Pace,Damon Hill,Jean Alesi,Michael Schumacher,\N
+226,1996-04-07,Autódromo Juan y Oscar Gálvez,Damon Hill,Jacques Villeneuve,Jean Alesi,\N
+227,1996-04-28,Nürburgring,Jacques Villeneuve,Michael Schumacher,David Coulthard,\N
+228,1996-05-05,Autodromo Enzo e Dino Ferrari,Damon Hill,Michael Schumacher,Gerhard Berger,\N
+229,1996-05-19,Circuit de Monaco,Olivier Panis,David Coulthard,Johnny Herbert,\N
+230,1996-06-02,Circuit de Barcelona-Catalunya,Michael Schumacher,Jean Alesi,Jacques Villeneuve,\N
+231,1996-06-16,Circuit Gilles Villeneuve,Damon Hill,Jacques Villeneuve,Jean Alesi,\N
+232,1996-06-30,Circuit de Nevers Magny-Cours,Damon Hill,Jacques Villeneuve,Jean Alesi,\N
+233,1996-07-14,Silverstone Circuit,Jacques Villeneuve,Gerhard Berger,Mika Häkkinen,\N
+234,1996-07-28,Hockenheimring,Damon Hill,Jean Alesi,Jacques Villeneuve,\N
+235,1996-08-11,Hungaroring,Jacques Villeneuve,Damon Hill,Jean Alesi,\N
+236,1996-08-25,Circuit de Spa-Francorchamps,Michael Schumacher,Jacques Villeneuve,Mika Häkkinen,\N
+237,1996-09-08,Autodromo Nazionale di Monza,Michael Schumacher,Jean Alesi,Mika Häkkinen,\N
+238,1996-09-22,Autódromo do Estoril,Jacques Villeneuve,Damon Hill,Michael Schumacher,\N
+239,1996-10-13,Suzuka Circuit,Damon Hill,Michael Schumacher,Mika Häkkinen,\N
+240,1995-03-26,Autódromo José Carlos Pace,Michael Schumacher,David Coulthard,Gerhard Berger,\N
+241,1995-04-09,Autódromo Juan y Oscar Gálvez,Damon Hill,Jean Alesi,Michael Schumacher,\N
+242,1995-04-30,Autodromo Enzo e Dino Ferrari,Damon Hill,Jean Alesi,Gerhard Berger,\N
+243,1995-05-14,Circuit de Barcelona-Catalunya,Michael Schumacher,Johnny Herbert,Gerhard Berger,\N
+244,1995-05-28,Circuit de Monaco,Michael Schumacher,Damon Hill,Gerhard Berger,\N
+245,1995-06-11,Circuit Gilles Villeneuve,Jean Alesi,Rubens Barrichello,Eddie Irvine,\N
+246,1995-07-02,Circuit de Nevers Magny-Cours,Michael Schumacher,Damon Hill,David Coulthard,\N
+247,1995-07-16,Silverstone Circuit,Johnny Herbert,Jean Alesi,David Coulthard,\N
+248,1995-07-30,Hockenheimring,Michael Schumacher,David Coulthard,Gerhard Berger,\N
+249,1995-08-13,Hungaroring,Damon Hill,David Coulthard,Gerhard Berger,\N
+250,1995-08-27,Circuit de Spa-Francorchamps,Michael Schumacher,Damon Hill,Martin Brundle,\N
+251,1995-09-10,Autodromo Nazionale di Monza,Johnny Herbert,Mika Häkkinen,Heinz-Harald Frentzen,\N
+252,1995-09-24,Autódromo do Estoril,David Coulthard,Michael Schumacher,Damon Hill,\N
+253,1995-10-01,Nürburgring,Michael Schumacher,Jean Alesi,David Coulthard,\N
+254,1995-10-22,Okayama International Circuit,Michael Schumacher,David Coulthard,Damon Hill,\N
+255,1995-10-29,Suzuka Circuit,Michael Schumacher,Mika Häkkinen,Johnny Herbert,\N
+256,1995-11-12,Adelaide Street Circuit,Damon Hill,Olivier Panis,Gianni Morbidelli,\N
+257,1994-03-27,Autódromo José Carlos Pace,Michael Schumacher,Damon Hill,Jean Alesi,\N
+258,1994-04-17,Okayama International Circuit,Michael Schumacher,Gerhard Berger,Rubens Barrichello,\N
+259,1994-05-01,Autodromo Enzo e Dino Ferrari,Michael Schumacher,Nicola Larini,Mika Häkkinen,\N
+260,1994-05-15,Circuit de Monaco,Michael Schumacher,Martin Brundle,Gerhard Berger,\N
+261,1994-05-29,Circuit de Barcelona-Catalunya,Damon Hill,Michael Schumacher,Mark Blundell,\N
+262,1994-06-12,Circuit Gilles Villeneuve,Michael Schumacher,Damon Hill,Jean Alesi,\N
+263,1994-07-03,Circuit de Nevers Magny-Cours,Michael Schumacher,Damon Hill,Gerhard Berger,\N
+264,1994-07-10,Silverstone Circuit,Damon Hill,Jean Alesi,Mika Häkkinen,\N
+265,1994-07-31,Hockenheimring,Gerhard Berger,Olivier Panis,Éric Bernard,\N
+266,1994-08-14,Hungaroring,Michael Schumacher,Damon Hill,Jos Verstappen,\N
+267,1994-08-28,Circuit de Spa-Francorchamps,Damon Hill,Mika Häkkinen,Jos Verstappen,\N
+268,1994-09-11,Autodromo Nazionale di Monza,Damon Hill,Gerhard Berger,Mika Häkkinen,\N
+269,1994-09-25,Autódromo do Estoril,Damon Hill,David Coulthard,Mika Häkkinen,\N
+270,1994-10-16,Circuito de Jerez,Michael Schumacher,Damon Hill,Mika Häkkinen,\N
+271,1994-11-06,Suzuka Circuit,Damon Hill,Michael Schumacher,Jean Alesi,\N
+272,1994-11-13,Adelaide Street Circuit,Nigel Mansell,Gerhard Berger,Martin Brundle,\N
+273,1993-03-14,Kyalami,Alain Prost,Ayrton Senna,Mark Blundell,\N
+274,1993-03-28,Autódromo José Carlos Pace,Ayrton Senna,Damon Hill,Michael Schumacher,\N
+275,1993-04-11,Donington Park,Ayrton Senna,Damon Hill,Alain Prost,\N
+276,1993-04-25,Autodromo Enzo e Dino Ferrari,Alain Prost,Michael Schumacher,Martin Brundle,\N
+277,1993-05-09,Circuit de Barcelona-Catalunya,Alain Prost,Ayrton Senna,Michael Schumacher,\N
+278,1993-05-23,Circuit de Monaco,Ayrton Senna,Damon Hill,Jean Alesi,\N
+279,1993-06-13,Circuit Gilles Villeneuve,Alain Prost,Michael Schumacher,Damon Hill,\N
+280,1993-07-04,Circuit de Nevers Magny-Cours,Alain Prost,Damon Hill,Michael Schumacher,\N
+281,1993-07-11,Silverstone Circuit,Alain Prost,Michael Schumacher,Riccardo Patrese,\N
+282,1993-07-25,Hockenheimring,Alain Prost,Michael Schumacher,Mark Blundell,\N
+283,1993-08-15,Hungaroring,Damon Hill,Riccardo Patrese,Gerhard Berger,\N
+284,1993-08-29,Circuit de Spa-Francorchamps,Damon Hill,Michael Schumacher,Alain Prost,\N
+285,1993-09-12,Autodromo Nazionale di Monza,Damon Hill,Jean Alesi,Michael Andretti,\N
+286,1993-09-26,Autódromo do Estoril,Michael Schumacher,Alain Prost,Damon Hill,\N
+287,1993-10-24,Suzuka Circuit,Ayrton Senna,Alain Prost,Mika Häkkinen,\N
+288,1993-11-07,Adelaide Street Circuit,Ayrton Senna,Alain Prost,Damon Hill,\N
+289,1992-03-01,Kyalami,Nigel Mansell,Riccardo Patrese,Ayrton Senna,\N
+290,1992-03-22,Autódromo Hermanos Rodríguez,Nigel Mansell,Riccardo Patrese,Michael Schumacher,\N
+291,1992-04-05,Autódromo José Carlos Pace,Nigel Mansell,Riccardo Patrese,Michael Schumacher,\N
+292,1992-05-03,Circuit de Barcelona-Catalunya,Nigel Mansell,Michael Schumacher,Jean Alesi,\N
+293,1992-05-17,Autodromo Enzo e Dino Ferrari,Nigel Mansell,Riccardo Patrese,Ayrton Senna,\N
+294,1992-05-31,Circuit de Monaco,Ayrton Senna,Nigel Mansell,Riccardo Patrese,\N
+295,1992-06-14,Circuit Gilles Villeneuve,Gerhard Berger,Michael Schumacher,Jean Alesi,\N
+296,1992-07-05,Circuit de Nevers Magny-Cours,Nigel Mansell,Riccardo Patrese,Martin Brundle,\N
+297,1992-07-12,Silverstone Circuit,Nigel Mansell,Riccardo Patrese,Martin Brundle,\N
+298,1992-07-26,Hockenheimring,Nigel Mansell,Ayrton Senna,Michael Schumacher,\N
+299,1992-08-16,Hungaroring,Ayrton Senna,Nigel Mansell,Gerhard Berger,\N
+300,1992-08-30,Circuit de Spa-Francorchamps,Michael Schumacher,Nigel Mansell,Riccardo Patrese,\N
+301,1992-09-13,Autodromo Nazionale di Monza,Ayrton Senna,Martin Brundle,Michael Schumacher,\N
+302,1992-09-27,Autódromo do Estoril,Nigel Mansell,Gerhard Berger,Ayrton Senna,\N
+303,1992-10-25,Suzuka Circuit,Riccardo Patrese,Gerhard Berger,Martin Brundle,\N
+304,1992-11-08,Adelaide Street Circuit,Gerhard Berger,Michael Schumacher,Martin Brundle,\N
+305,1991-03-10,Phoenix street circuit,Ayrton Senna,Alain Prost,Nelson Piquet,\N
+306,1991-03-24,Autódromo José Carlos Pace,Ayrton Senna,Riccardo Patrese,Gerhard Berger,\N
+307,1991-04-28,Autodromo Enzo e Dino Ferrari,Ayrton Senna,Gerhard Berger,Jyrki Järvilehto,\N
+308,1991-05-12,Circuit de Monaco,Ayrton Senna,Nigel Mansell,Jean Alesi,\N
+309,1991-06-02,Circuit Gilles Villeneuve,Nelson Piquet,Stefano Modena,Riccardo Patrese,\N
+310,1991-06-16,Autódromo Hermanos Rodríguez,Riccardo Patrese,Nigel Mansell,Ayrton Senna,\N
+311,1991-07-07,Circuit de Nevers Magny-Cours,Nigel Mansell,Alain Prost,Ayrton Senna,\N
+312,1991-07-14,Silverstone Circuit,Nigel Mansell,Gerhard Berger,Alain Prost,\N
+313,1991-07-28,Hockenheimring,Nigel Mansell,Riccardo Patrese,Jean Alesi,\N
+314,1991-08-11,Hungaroring,Ayrton Senna,Nigel Mansell,Riccardo Patrese,\N
+315,1991-08-25,Circuit de Spa-Francorchamps,Ayrton Senna,Gerhard Berger,Nelson Piquet,\N
+316,1991-09-08,Autodromo Nazionale di Monza,Nigel Mansell,Ayrton Senna,Alain Prost,\N
+317,1991-09-22,Autódromo do Estoril,Riccardo Patrese,Ayrton Senna,Jean Alesi,\N
+318,1991-09-29,Circuit de Barcelona-Catalunya,Nigel Mansell,Alain Prost,Riccardo Patrese,\N
+319,1991-10-20,Suzuka Circuit,Gerhard Berger,Ayrton Senna,Riccardo Patrese,\N
+320,1991-11-03,Adelaide Street Circuit,Ayrton Senna,Nigel Mansell,Gerhard Berger,\N
+321,1990-03-11,Phoenix street circuit,Ayrton Senna,Jean Alesi,Thierry Boutsen,\N
+322,1990-03-25,Autódromo José Carlos Pace,Alain Prost,Gerhard Berger,Ayrton Senna,\N
+323,1990-05-13,Autodromo Enzo e Dino Ferrari,Riccardo Patrese,Gerhard Berger,Alessandro Nannini,\N
+324,1990-05-27,Circuit de Monaco,Ayrton Senna,Jean Alesi,Gerhard Berger,\N
+325,1990-06-10,Circuit Gilles Villeneuve,Ayrton Senna,Nelson Piquet,Nigel Mansell,\N
+326,1990-06-24,Autódromo Hermanos Rodríguez,Alain Prost,Nigel Mansell,Gerhard Berger,\N
+327,1990-07-08,Circuit Paul Ricard,Alain Prost,Ivan Capelli,Ayrton Senna,\N
+328,1990-07-15,Silverstone Circuit,Alain Prost,Thierry Boutsen,Ayrton Senna,\N
+329,1990-07-29,Hockenheimring,Ayrton Senna,Alessandro Nannini,Gerhard Berger,\N
+330,1990-08-12,Hungaroring,Thierry Boutsen,Ayrton Senna,Nelson Piquet,\N
+331,1990-08-26,Circuit de Spa-Francorchamps,Ayrton Senna,Alain Prost,Gerhard Berger,\N
+332,1990-09-09,Autodromo Nazionale di Monza,Ayrton Senna,Alain Prost,Gerhard Berger,\N
+333,1990-09-23,Autódromo do Estoril,Nigel Mansell,Ayrton Senna,Alain Prost,\N
+334,1990-09-30,Circuito de Jerez,Alain Prost,Nigel Mansell,Alessandro Nannini,\N
+335,1990-10-21,Suzuka Circuit,Nelson Piquet,Roberto Moreno,Aguri Suzuki,\N
+336,1990-11-04,Adelaide Street Circuit,Nelson Piquet,Nigel Mansell,Alain Prost,\N
+1,2009-03-29,Albert Park Grand Prix Circuit,Jenson Button,Rubens Barrichello,Jarno Trulli,\N
+2,2009-04-05,Sepang International Circuit,Jenson Button,Nick Heidfeld,Timo Glock,\N
+3,2009-04-19,Shanghai International Circuit,Sebastian Vettel,Mark Webber,Jenson Button,\N
+4,2009-04-26,Bahrain International Circuit,Jenson Button,Sebastian Vettel,Jarno Trulli,\N
+5,2009-05-10,Circuit de Barcelona-Catalunya,Jenson Button,Rubens Barrichello,Mark Webber,\N
+6,2009-05-24,Circuit de Monaco,Jenson Button,Rubens Barrichello,Kimi Räikkönen,\N
+7,2009-06-07,Istanbul Park,Jenson Button,Mark Webber,Sebastian Vettel,\N
+8,2009-06-21,Silverstone Circuit,Sebastian Vettel,Mark Webber,Rubens Barrichello,\N
+9,2009-07-12,Nürburgring,Mark Webber,Sebastian Vettel,Felipe Massa,\N
+10,2009-07-26,Hungaroring,Lewis Hamilton,Kimi Räikkönen,Mark Webber,\N
+11,2009-08-23,Valencia Street Circuit,Rubens Barrichello,Lewis Hamilton,Kimi Räikkönen,\N
+12,2009-08-30,Circuit de Spa-Francorchamps,Kimi Räikkönen,Giancarlo Fisichella,Sebastian Vettel,\N
+13,2009-09-13,Autodromo Nazionale di Monza,Rubens Barrichello,Jenson Button,Kimi Räikkönen,\N
+14,2009-09-27,Marina Bay Street Circuit,Lewis Hamilton,Timo Glock,Fernando Alonso,\N
+15,2009-10-04,Suzuka Circuit,Sebastian Vettel,Jarno Trulli,Lewis Hamilton,\N
+16,2009-10-18,Autódromo José Carlos Pace,Mark Webber,Robert Kubica,Lewis Hamilton,\N
+356,1989-03-26,Autódromo Internacional Nelson Piquet,Nigel Mansell,Alain Prost,Maurício Gugelmin,\N
+357,1989-04-23,Autodromo Enzo e Dino Ferrari,Ayrton Senna,Alain Prost,Alessandro Nannini,\N
+358,1989-05-07,Circuit de Monaco,Ayrton Senna,Alain Prost,Stefano Modena,\N
+359,1989-05-28,Autódromo Hermanos Rodríguez,Ayrton Senna,Riccardo Patrese,Michele Alboreto,\N
+360,1989-06-04,Phoenix street circuit,Alain Prost,Riccardo Patrese,Eddie Cheever,\N
+361,1989-06-18,Circuit Gilles Villeneuve,Thierry Boutsen,Riccardo Patrese,Andrea de Cesaris,\N
+362,1989-07-09,Circuit Paul Ricard,Alain Prost,Nigel Mansell,Riccardo Patrese,\N
+363,1989-07-16,Silverstone Circuit,Alain Prost,Nigel Mansell,Alessandro Nannini,\N
+364,1989-07-30,Hockenheimring,Ayrton Senna,Alain Prost,Nigel Mansell,\N
+365,1989-08-13,Hungaroring,Nigel Mansell,Ayrton Senna,Thierry Boutsen,\N
+366,1989-08-27,Circuit de Spa-Francorchamps,Ayrton Senna,Alain Prost,Nigel Mansell,\N
+367,1989-09-10,Autodromo Nazionale di Monza,Alain Prost,Gerhard Berger,Thierry Boutsen,\N
+368,1989-09-24,Autódromo do Estoril,Gerhard Berger,Alain Prost,Stefan Johansson,\N
+369,1989-10-01,Circuito de Jerez,Ayrton Senna,Gerhard Berger,Alain Prost,\N
+370,1989-10-22,Suzuka Circuit,Alessandro Nannini,Riccardo Patrese,Thierry Boutsen,\N
+371,1989-11-05,Adelaide Street Circuit,Thierry Boutsen,Alessandro Nannini,Riccardo Patrese,\N
+372,1988-04-03,Autódromo Internacional Nelson Piquet,Alain Prost,Gerhard Berger,Nelson Piquet,\N
+373,1988-05-01,Autodromo Enzo e Dino Ferrari,Ayrton Senna,Alain Prost,Nelson Piquet,\N
+374,1988-05-15,Circuit de Monaco,Alain Prost,Gerhard Berger,Michele Alboreto,\N
+375,1988-05-29,Autódromo Hermanos Rodríguez,Alain Prost,Ayrton Senna,Gerhard Berger,\N
+376,1988-06-12,Circuit Gilles Villeneuve,Ayrton Senna,Alain Prost,Thierry Boutsen,\N
+377,1988-06-19,Detroit Street Circuit,Ayrton Senna,Alain Prost,Thierry Boutsen,\N
+378,1988-07-03,Circuit Paul Ricard,Alain Prost,Ayrton Senna,Michele Alboreto,\N
+379,1988-07-10,Silverstone Circuit,Ayrton Senna,Nigel Mansell,Alessandro Nannini,\N
+380,1988-07-24,Hockenheimring,Ayrton Senna,Alain Prost,Gerhard Berger,\N
+381,1988-08-07,Hungaroring,Ayrton Senna,Alain Prost,Thierry Boutsen,\N
+382,1988-08-28,Circuit de Spa-Francorchamps,Ayrton Senna,Alain Prost,Ivan Capelli,\N
+383,1988-09-11,Autodromo Nazionale di Monza,Gerhard Berger,Michele Alboreto,Eddie Cheever,\N
+384,1988-09-25,Autódromo do Estoril,Alain Prost,Ivan Capelli,Thierry Boutsen,\N
+385,1988-10-02,Circuito de Jerez,Alain Prost,Nigel Mansell,Alessandro Nannini,\N
+386,1988-10-30,Suzuka Circuit,Ayrton Senna,Alain Prost,Thierry Boutsen,\N
+387,1988-11-13,Adelaide Street Circuit,Alain Prost,Ayrton Senna,Nelson Piquet,\N
+388,1987-04-12,Autódromo Internacional Nelson Piquet,Alain Prost,Nelson Piquet,Stefan Johansson,\N
+389,1987-05-03,Autodromo Enzo e Dino Ferrari,Nigel Mansell,Ayrton Senna,Michele Alboreto,\N
+390,1987-05-17,Circuit de Spa-Francorchamps,Alain Prost,Stefan Johansson,Andrea de Cesaris,\N
+391,1987-05-31,Circuit de Monaco,Ayrton Senna,Nelson Piquet,Michele Alboreto,\N
+392,1987-06-21,Detroit Street Circuit,Ayrton Senna,Nelson Piquet,Alain Prost,\N
+393,1987-07-05,Circuit Paul Ricard,Nigel Mansell,Nelson Piquet,Alain Prost,\N
+394,1987-07-12,Silverstone Circuit,Nigel Mansell,Nelson Piquet,Ayrton Senna,\N
+395,1987-07-26,Hockenheimring,Nelson Piquet,Stefan Johansson,Ayrton Senna,\N
+396,1987-08-09,Hungaroring,Nelson Piquet,Ayrton Senna,Alain Prost,\N
+397,1987-08-16,Red Bull Ring,Nigel Mansell,Nelson Piquet,Teo Fabi,\N
+398,1987-09-06,Autodromo Nazionale di Monza,Nelson Piquet,Ayrton Senna,Nigel Mansell,\N
+399,1987-09-20,Autódromo do Estoril,Alain Prost,Gerhard Berger,Nelson Piquet,\N
+400,1987-09-27,Circuito de Jerez,Nigel Mansell,Alain Prost,Stefan Johansson,\N
+401,1987-10-18,Autódromo Hermanos Rodríguez,Nigel Mansell,Nelson Piquet,Riccardo Patrese,\N
+402,1987-11-01,Suzuka Circuit,Gerhard Berger,Ayrton Senna,Stefan Johansson,\N
+403,1987-11-15,Adelaide Street Circuit,Gerhard Berger,Michele Alboreto,Thierry Boutsen,\N
+404,1986-03-23,Autódromo Internacional Nelson Piquet,Nelson Piquet,Ayrton Senna,Jacques Laffite,\N
+405,1986-04-13,Circuito de Jerez,Ayrton Senna,Nigel Mansell,Alain Prost,\N
+406,1986-04-27,Autodromo Enzo e Dino Ferrari,Alain Prost,Nelson Piquet,Gerhard Berger,\N
+407,1986-05-11,Circuit de Monaco,Alain Prost,Keke Rosberg,Ayrton Senna,\N
+408,1986-05-25,Circuit de Spa-Francorchamps,Nigel Mansell,Ayrton Senna,Stefan Johansson,\N
+409,1986-06-15,Circuit Gilles Villeneuve,Nigel Mansell,Alain Prost,Nelson Piquet,\N
+410,1986-06-22,Detroit Street Circuit,Ayrton Senna,Jacques Laffite,Alain Prost,\N
+411,1986-07-06,Circuit Paul Ricard,Nigel Mansell,Alain Prost,Nelson Piquet,\N
+412,1986-07-13,Brands Hatch,Nigel Mansell,Nelson Piquet,Alain Prost,\N
+413,1986-07-27,Hockenheimring,Nelson Piquet,Ayrton Senna,Nigel Mansell,\N
+414,1986-08-10,Hungaroring,Nelson Piquet,Ayrton Senna,Nigel Mansell,\N
+415,1986-08-17,Red Bull Ring,Alain Prost,Michele Alboreto,Stefan Johansson,\N
+416,1986-09-07,Autodromo Nazionale di Monza,Nelson Piquet,Nigel Mansell,Stefan Johansson,\N
+417,1986-09-21,Autódromo do Estoril,Nigel Mansell,Alain Prost,Nelson Piquet,\N
+418,1986-10-12,Autódromo Hermanos Rodríguez,Gerhard Berger,Alain Prost,Ayrton Senna,\N
+419,1986-10-26,Adelaide Street Circuit,Alain Prost,Nelson Piquet,Stefan Johansson,\N
+420,1985-04-07,Autódromo Internacional Nelson Piquet,Alain Prost,Michele Alboreto,Elio de Angelis,\N
+421,1985-04-21,Autódromo do Estoril,Ayrton Senna,Michele Alboreto,Patrick Tambay,\N
+422,1985-05-05,Autodromo Enzo e Dino Ferrari,Elio de Angelis,Thierry Boutsen,Patrick Tambay,\N
+423,1985-05-19,Circuit de Monaco,Alain Prost,Michele Alboreto,Elio de Angelis,\N
+424,1985-06-16,Circuit Gilles Villeneuve,Michele Alboreto,Stefan Johansson,Alain Prost,\N
+425,1985-06-23,Detroit Street Circuit,Keke Rosberg,Stefan Johansson,Michele Alboreto,\N
+426,1985-07-07,Circuit Paul Ricard,Nelson Piquet,Keke Rosberg,Alain Prost,\N
+427,1985-07-21,Silverstone Circuit,Alain Prost,Michele Alboreto,Jacques Laffite,\N
+428,1985-08-04,Nürburgring,Michele Alboreto,Alain Prost,Jacques Laffite,\N
+429,1985-08-18,Red Bull Ring,Alain Prost,Ayrton Senna,Michele Alboreto,\N
+430,1985-08-25,Circuit Park Zandvoort,Niki Lauda,Alain Prost,Ayrton Senna,\N
+431,1985-09-08,Autodromo Nazionale di Monza,Alain Prost,Nelson Piquet,Ayrton Senna,\N
+432,1985-09-15,Circuit de Spa-Francorchamps,Ayrton Senna,Nigel Mansell,Alain Prost,\N
+433,1985-10-06,Brands Hatch,Nigel Mansell,Ayrton Senna,Keke Rosberg,\N
+434,1985-10-19,Kyalami,Nigel Mansell,Keke Rosberg,Alain Prost,\N
+435,1985-11-03,Adelaide Street Circuit,Keke Rosberg,Jacques Laffite,Philippe Streiff,\N
+436,1984-03-25,Autódromo Internacional Nelson Piquet,Alain Prost,Keke Rosberg,Elio de Angelis,\N
+437,1984-04-07,Kyalami,Niki Lauda,Alain Prost,Derek Warwick,\N
+438,1984-04-29,Zolder,Michele Alboreto,Derek Warwick,René Arnoux,\N
+439,1984-05-06,Autodromo Enzo e Dino Ferrari,Alain Prost,René Arnoux,Elio de Angelis,\N
+440,1984-05-20,Dijon-Prenois,Niki Lauda,Patrick Tambay,Nigel Mansell,\N
+441,1984-06-03,Circuit de Monaco,Alain Prost,Ayrton Senna,René Arnoux,\N
+442,1984-06-17,Circuit Gilles Villeneuve,Nelson Piquet,Niki Lauda,Alain Prost,\N
+443,1984-06-24,Detroit Street Circuit,Nelson Piquet,Elio de Angelis,Teo Fabi,\N
+444,1984-07-08,Fair Park,Keke Rosberg,René Arnoux,Elio de Angelis,\N
+445,1984-07-22,Brands Hatch,Niki Lauda,Derek Warwick,Ayrton Senna,\N
+446,1984-08-05,Hockenheimring,Alain Prost,Niki Lauda,Derek Warwick,\N
+447,1984-08-19,Red Bull Ring,Niki Lauda,Nelson Piquet,Michele Alboreto,\N
+448,1984-08-26,Circuit Park Zandvoort,Alain Prost,Niki Lauda,Nigel Mansell,\N
+449,1984-09-09,Autodromo Nazionale di Monza,Niki Lauda,Michele Alboreto,Riccardo Patrese,\N
+450,1984-10-07,Nürburgring,Alain Prost,Michele Alboreto,Nelson Piquet,\N
+451,1984-10-21,Autódromo do Estoril,Alain Prost,Niki Lauda,Ayrton Senna,\N
+452,1983-03-13,Autódromo Internacional Nelson Piquet,Nelson Piquet,,Niki Lauda,\N
+453,1983-03-27,Long Beach,John Watson,Niki Lauda,René Arnoux,\N
+454,1983-04-17,Circuit Paul Ricard,Alain Prost,Nelson Piquet,Eddie Cheever,\N
+455,1983-05-01,Autodromo Enzo e Dino Ferrari,Patrick Tambay,Alain Prost,René Arnoux,\N
+456,1983-05-15,Circuit de Monaco,Keke Rosberg,Nelson Piquet,Alain Prost,\N
+457,1983-05-22,Circuit de Spa-Francorchamps,Alain Prost,Patrick Tambay,Eddie Cheever,\N
+458,1983-06-05,Detroit Street Circuit,Michele Alboreto,Keke Rosberg,John Watson,\N
+459,1983-06-12,Circuit Gilles Villeneuve,René Arnoux,Eddie Cheever,Patrick Tambay,\N
+460,1983-07-16,Silverstone Circuit,Alain Prost,Nelson Piquet,Patrick Tambay,\N
+461,1983-08-07,Hockenheimring,René Arnoux,Andrea de Cesaris,Riccardo Patrese,\N
+462,1983-08-14,Red Bull Ring,Alain Prost,René Arnoux,Nelson Piquet,\N
+463,1983-08-28,Circuit Park Zandvoort,René Arnoux,Patrick Tambay,John Watson,\N
+464,1983-09-11,Autodromo Nazionale di Monza,Nelson Piquet,René Arnoux,Eddie Cheever,\N
+465,1983-09-25,Brands Hatch,Nelson Piquet,Alain Prost,Nigel Mansell,\N
+466,1983-10-15,Kyalami,Riccardo Patrese,Andrea de Cesaris,Nelson Piquet,\N
+467,1982-01-23,Kyalami,Alain Prost,Carlos Reutemann,René Arnoux,\N
+468,1982-03-21,Autódromo Internacional Nelson Piquet,Alain Prost,John Watson,Nigel Mansell,\N
+469,1982-04-04,Long Beach,Niki Lauda,Keke Rosberg,Riccardo Patrese,\N
+470,1982-04-25,Autodromo Enzo e Dino Ferrari,Didier Pironi,Gilles Villeneuve,Michele Alboreto,\N
+471,1982-05-09,Zolder,John Watson,Keke Rosberg,Eddie Cheever,\N
+472,1982-05-23,Circuit de Monaco,Riccardo Patrese,Didier Pironi,Andrea de Cesaris,\N
+473,1982-06-06,Detroit Street Circuit,John Watson,Eddie Cheever,Didier Pironi,\N
+474,1982-06-13,Circuit Gilles Villeneuve,Nelson Piquet,Riccardo Patrese,John Watson,\N
+475,1982-07-03,Circuit Park Zandvoort,Didier Pironi,Nelson Piquet,Keke Rosberg,\N
+476,1982-07-18,Brands Hatch,Niki Lauda,Didier Pironi,Patrick Tambay,\N
+477,1982-07-25,Circuit Paul Ricard,René Arnoux,Alain Prost,Didier Pironi,\N
+478,1982-08-08,Hockenheimring,Patrick Tambay,René Arnoux,Keke Rosberg,\N
+479,1982-08-15,Red Bull Ring,Elio de Angelis,Keke Rosberg,Jacques Laffite,\N
+480,1982-08-29,Dijon-Prenois,Keke Rosberg,Alain Prost,Niki Lauda,\N
+481,1982-09-12,Autodromo Nazionale di Monza,René Arnoux,Patrick Tambay,Mario Andretti,\N
+482,1982-09-25,Las Vegas Street Circuit,Michele Alboreto,John Watson,Eddie Cheever,\N
+483,1981-03-15,Long Beach,Alan Jones,Carlos Reutemann,Nelson Piquet,\N
+484,1981-03-29,Autódromo Internacional Nelson Piquet,Carlos Reutemann,Alan Jones,Riccardo Patrese,\N
+485,1981-04-12,Autódromo Juan y Oscar Gálvez,Nelson Piquet,Carlos Reutemann,Alain Prost,\N
+486,1981-05-03,Autodromo Enzo e Dino Ferrari,Nelson Piquet,Riccardo Patrese,Carlos Reutemann,\N
+487,1981-05-17,Zolder,Carlos Reutemann,Jacques Laffite,Nigel Mansell,\N
+488,1981-05-31,Circuit de Monaco,Gilles Villeneuve,Alan Jones,Jacques Laffite,\N
+489,1981-06-21,Jarama,Gilles Villeneuve,Jacques Laffite,John Watson,\N
+490,1981-07-05,Dijon-Prenois,Alain Prost,John Watson,Nelson Piquet,\N
+491,1981-07-18,Silverstone Circuit,John Watson,Carlos Reutemann,Jacques Laffite,\N
+492,1981-08-02,Hockenheimring,Nelson Piquet,Alain Prost,Jacques Laffite,\N
+493,1981-08-16,Red Bull Ring,Jacques Laffite,René Arnoux,Nelson Piquet,\N
+494,1981-08-30,Circuit Park Zandvoort,Alain Prost,Nelson Piquet,Alan Jones,\N
+495,1981-09-13,Autodromo Nazionale di Monza,Alain Prost,Alan Jones,Carlos Reutemann,\N
+496,1981-09-27,Circuit Gilles Villeneuve,Jacques Laffite,John Watson,Gilles Villeneuve,\N
+497,1981-10-17,Las Vegas Street Circuit,Alan Jones,Alain Prost,Bruno Giacomelli,\N
+498,1980-01-13,Autódromo Juan y Oscar Gálvez,Alan Jones,Nelson Piquet,Keke Rosberg,\N
+499,1980-01-27,Autódromo José Carlos Pace,René Arnoux,Elio de Angelis,Alan Jones,\N
+500,1980-03-01,Kyalami,René Arnoux,Jacques Laffite,Didier Pironi,\N
+501,1980-03-30,Long Beach,Nelson Piquet,Riccardo Patrese,Emerson Fittipaldi,\N
+502,1980-05-04,Zolder,Didier Pironi,Alan Jones,Carlos Reutemann,\N
+503,1980-05-18,Circuit de Monaco,Carlos Reutemann,Jacques Laffite,Nelson Piquet,\N
+504,1980-06-29,Circuit Paul Ricard,Alan Jones,Didier Pironi,Jacques Laffite,\N
+505,1980-07-13,Brands Hatch,Alan Jones,Nelson Piquet,Carlos Reutemann,\N
+506,1980-08-10,Hockenheimring,Jacques Laffite,Carlos Reutemann,Alan Jones,\N
+507,1980-08-17,Red Bull Ring,Jean-Pierre Jabouille,Alan Jones,Carlos Reutemann,\N
+508,1980-08-31,Circuit Park Zandvoort,Nelson Piquet,René Arnoux,Jacques Laffite,\N
+509,1980-09-14,Autodromo Enzo e Dino Ferrari,Nelson Piquet,Alan Jones,Carlos Reutemann,\N
+510,1980-09-28,Circuit Gilles Villeneuve,Alan Jones,Carlos Reutemann,Didier Pironi,\N
+511,1980-10-05,Watkins Glen,Alan Jones,Carlos Reutemann,Didier Pironi,\N
+512,1979-01-21,Autódromo Juan y Oscar Gálvez,Jacques Laffite,Carlos Reutemann,John Watson,\N
+513,1979-02-04,Autódromo José Carlos Pace,Jacques Laffite,Patrick Depailler,Carlos Reutemann,\N
+514,1979-03-03,Kyalami,Gilles Villeneuve,Jody Scheckter,Jean-Pierre Jarier,\N
+515,1979-04-08,Long Beach,Gilles Villeneuve,Jody Scheckter,Alan Jones,\N
+516,1979-04-29,Jarama,Patrick Depailler,Carlos Reutemann,Mario Andretti,\N
+517,1979-05-13,Zolder,Jody Scheckter,Jacques Laffite,Didier Pironi,\N
+518,1979-05-27,Circuit de Monaco,Jody Scheckter,Clay Regazzoni,Carlos Reutemann,\N
+519,1979-07-01,Dijon-Prenois,Jean-Pierre Jabouille,Gilles Villeneuve,René Arnoux,\N
+520,1979-07-14,Silverstone Circuit,Clay Regazzoni,René Arnoux,Jean-Pierre Jarier,\N
+521,1979-07-29,Hockenheimring,Alan Jones,Clay Regazzoni,Jacques Laffite,\N
+522,1979-08-12,Red Bull Ring,Alan Jones,Gilles Villeneuve,Jacques Laffite,\N
+523,1979-08-26,Circuit Park Zandvoort,Alan Jones,Jody Scheckter,Jacques Laffite,\N
+524,1979-09-09,Autodromo Nazionale di Monza,Jody Scheckter,Gilles Villeneuve,Clay Regazzoni,\N
+525,1979-09-30,Circuit Gilles Villeneuve,Alan Jones,Gilles Villeneuve,Clay Regazzoni,\N
+526,1979-10-07,Watkins Glen,Gilles Villeneuve,René Arnoux,Didier Pironi,\N
+527,1978-01-15,Autódromo Juan y Oscar Gálvez,Mario Andretti,Niki Lauda,Patrick Depailler,\N
+528,1978-01-29,Autódromo Internacional Nelson Piquet,Carlos Reutemann,Emerson Fittipaldi,Niki Lauda,\N
+529,1978-03-04,Kyalami,Ronnie Peterson,Patrick Depailler,John Watson,\N
+530,1978-04-02,Long Beach,Carlos Reutemann,Mario Andretti,Patrick Depailler,\N
+531,1978-05-07,Circuit de Monaco,Patrick Depailler,Niki Lauda,Jody Scheckter,\N
+532,1978-05-21,Zolder,Mario Andretti,Ronnie Peterson,Carlos Reutemann,\N
+533,1978-06-04,Jarama,Mario Andretti,Ronnie Peterson,Jacques Laffite,\N
+534,1978-06-17,Scandinavian Raceway,Niki Lauda,Riccardo Patrese,Ronnie Peterson,\N
+535,1978-07-02,Circuit Paul Ricard,Mario Andretti,Ronnie Peterson,James Hunt,\N
+536,1978-07-16,Brands Hatch,Carlos Reutemann,Niki Lauda,John Watson,\N
+537,1978-07-30,Hockenheimring,Mario Andretti,Jody Scheckter,Jacques Laffite,\N
+538,1978-08-13,Red Bull Ring,Ronnie Peterson,Patrick Depailler,Gilles Villeneuve,\N
+539,1978-08-27,Circuit Park Zandvoort,Mario Andretti,Ronnie Peterson,Niki Lauda,\N
+540,1978-09-10,Autodromo Nazionale di Monza,Niki Lauda,John Watson,Carlos Reutemann,\N
+541,1978-10-01,Watkins Glen,Carlos Reutemann,Alan Jones,Jody Scheckter,\N
+542,1978-10-08,Circuit Gilles Villeneuve,Gilles Villeneuve,Jody Scheckter,Carlos Reutemann,\N
+543,1977-01-09,Autódromo Juan y Oscar Gálvez,Jody Scheckter,Carlos Pace,Carlos Reutemann,\N
+544,1977-01-23,Autódromo José Carlos Pace,Carlos Reutemann,James Hunt,Niki Lauda,\N
+545,1977-03-05,Kyalami,Niki Lauda,Jody Scheckter,Patrick Depailler,\N
+546,1977-04-03,Long Beach,Mario Andretti,Niki Lauda,Jody Scheckter,\N
+547,1977-05-08,Jarama,Mario Andretti,Carlos Reutemann,Jody Scheckter,\N
+548,1977-05-22,Circuit de Monaco,Jody Scheckter,Niki Lauda,Carlos Reutemann,\N
+549,1977-06-05,Zolder,Gunnar Nilsson,Niki Lauda,Ronnie Peterson,\N
+550,1977-06-19,Scandinavian Raceway,Jacques Laffite,Jochen Mass,Carlos Reutemann,\N
+551,1977-07-03,Dijon-Prenois,Mario Andretti,John Watson,James Hunt,\N
+552,1977-07-16,Silverstone Circuit,James Hunt,Niki Lauda,Gunnar Nilsson,\N
+553,1977-07-31,Hockenheimring,Niki Lauda,Jody Scheckter,Hans-Joachim Stuck,\N
+554,1977-08-14,Red Bull Ring,Alan Jones,Niki Lauda,Hans-Joachim Stuck,\N
+555,1977-08-28,Circuit Park Zandvoort,Niki Lauda,Jacques Laffite,Jody Scheckter,\N
+556,1977-09-11,Autodromo Nazionale di Monza,Mario Andretti,Niki Lauda,Alan Jones,\N
+557,1977-10-02,Watkins Glen,James Hunt,Mario Andretti,Jody Scheckter,\N
+558,1977-10-09,Mosport International Raceway,Jody Scheckter,Patrick Depailler,Jochen Mass,\N
+559,1977-10-23,Fuji Speedway,James Hunt,Carlos Reutemann,Patrick Depailler,\N
+560,1976-01-25,Autódromo José Carlos Pace,Niki Lauda,Patrick Depailler,Tom Pryce,\N
+561,1976-03-06,Kyalami,Niki Lauda,James Hunt,Jochen Mass,\N
+562,1976-03-28,Long Beach,Clay Regazzoni,Niki Lauda,Patrick Depailler,\N
+563,1976-05-02,Jarama,James Hunt,Niki Lauda,Gunnar Nilsson,\N
+564,1976-05-16,Zolder,Niki Lauda,Clay Regazzoni,Jacques Laffite,\N
+565,1976-05-30,Circuit de Monaco,Niki Lauda,Jody Scheckter,Patrick Depailler,\N
+566,1976-06-13,Scandinavian Raceway,Jody Scheckter,Patrick Depailler,Niki Lauda,\N
+567,1976-07-04,Circuit Paul Ricard,James Hunt,Patrick Depailler,John Watson,\N
+568,1976-07-18,Brands Hatch,Niki Lauda,Jody Scheckter,John Watson,\N
+569,1976-08-01,Nürburgring,James Hunt,Jody Scheckter,Jochen Mass,\N
+570,1976-08-15,Red Bull Ring,John Watson,Jacques Laffite,Gunnar Nilsson,\N
+571,1976-08-29,Circuit Park Zandvoort,James Hunt,Clay Regazzoni,Mario Andretti,\N
+572,1976-09-12,Autodromo Nazionale di Monza,Ronnie Peterson,Clay Regazzoni,Jacques Laffite,\N
+573,1976-10-03,Mosport International Raceway,James Hunt,Patrick Depailler,Mario Andretti,\N
+574,1976-10-10,Watkins Glen,James Hunt,Jody Scheckter,Niki Lauda,\N
+575,1976-10-24,Fuji Speedway,Mario Andretti,Patrick Depailler,James Hunt,\N
+576,1975-01-12,Autódromo Juan y Oscar Gálvez,Emerson Fittipaldi,James Hunt,Carlos Reutemann,\N
+577,1975-01-26,Autódromo José Carlos Pace,Carlos Pace,Emerson Fittipaldi,Jochen Mass,\N
+578,1975-03-01,Kyalami,Jody Scheckter,Carlos Reutemann,Patrick Depailler,\N
+579,1975-04-27,Montjuïc,Jochen Mass,Jacky Ickx,Carlos Reutemann,\N
+580,1975-05-11,Circuit de Monaco,Niki Lauda,Emerson Fittipaldi,Carlos Pace,\N
+581,1975-05-25,Zolder,Niki Lauda,Jody Scheckter,Carlos Reutemann,\N
+582,1975-06-08,Scandinavian Raceway,Niki Lauda,Carlos Reutemann,Clay Regazzoni,\N
+583,1975-06-22,Circuit Park Zandvoort,James Hunt,Niki Lauda,Clay Regazzoni,\N
+584,1975-07-06,Circuit Paul Ricard,Niki Lauda,James Hunt,Jochen Mass,\N
+585,1975-07-19,Silverstone Circuit,Emerson Fittipaldi,Carlos Pace,Jody Scheckter,\N
+586,1975-08-03,Nürburgring,Carlos Reutemann,Jacques Laffite,Niki Lauda,\N
+587,1975-08-17,Red Bull Ring,Vittorio Brambilla,James Hunt,Tom Pryce,\N
+588,1975-09-07,Autodromo Nazionale di Monza,Clay Regazzoni,Emerson Fittipaldi,Niki Lauda,\N
+589,1975-10-05,Watkins Glen,Niki Lauda,Emerson Fittipaldi,Jochen Mass,\N
+590,1974-01-13,Autódromo Juan y Oscar Gálvez,Denny Hulme,Niki Lauda,Clay Regazzoni,\N
+591,1974-01-27,Autódromo José Carlos Pace,Emerson Fittipaldi,Clay Regazzoni,Jacky Ickx,\N
+592,1974-03-30,Kyalami,Carlos Reutemann,Jean-Pierre Beltoise,Mike Hailwood,\N
+593,1974-04-28,Jarama,Niki Lauda,Clay Regazzoni,Emerson Fittipaldi,\N
+594,1974-05-12,Nivelles-Baulers,Emerson Fittipaldi,Niki Lauda,Jody Scheckter,\N
+595,1974-05-26,Circuit de Monaco,Ronnie Peterson,Jody Scheckter,Jean-Pierre Jarier,\N
+596,1974-06-09,Scandinavian Raceway,Jody Scheckter,Patrick Depailler,James Hunt,\N
+597,1974-06-23,Circuit Park Zandvoort,Niki Lauda,Clay Regazzoni,Emerson Fittipaldi,\N
+598,1974-07-07,Dijon-Prenois,Ronnie Peterson,Niki Lauda,Clay Regazzoni,\N
+599,1974-07-20,Brands Hatch,Jody Scheckter,Emerson Fittipaldi,Jacky Ickx,\N
+600,1974-08-04,Nürburgring,Clay Regazzoni,Jody Scheckter,Carlos Reutemann,\N
+601,1974-08-18,Red Bull Ring,Carlos Reutemann,Denny Hulme,James Hunt,\N
+602,1974-09-08,Autodromo Nazionale di Monza,Ronnie Peterson,Emerson Fittipaldi,Jody Scheckter,\N
+603,1974-09-22,Mosport International Raceway,Emerson Fittipaldi,Clay Regazzoni,Ronnie Peterson,\N
+604,1974-10-06,Watkins Glen,Carlos Reutemann,Carlos Pace,James Hunt,\N
+605,1973-01-28,Autódromo Juan y Oscar Gálvez,Emerson Fittipaldi,François Cevert,Jackie Stewart,\N
+606,1973-02-11,Autódromo José Carlos Pace,Emerson Fittipaldi,Jackie Stewart,Denny Hulme,\N
+607,1973-03-03,Kyalami,Jackie Stewart,Peter Revson,Emerson Fittipaldi,\N
+608,1973-04-29,Montjuïc,Emerson Fittipaldi,François Cevert,George Follmer,\N
+609,1973-05-20,Zolder,Jackie Stewart,François Cevert,Emerson Fittipaldi,\N
+610,1973-06-03,Circuit de Monaco,Jackie Stewart,Emerson Fittipaldi,Ronnie Peterson,\N
+611,1973-06-17,Scandinavian Raceway,Denny Hulme,Ronnie Peterson,François Cevert,\N
+612,1973-07-01,Circuit Paul Ricard,Ronnie Peterson,François Cevert,Carlos Reutemann,\N
+613,1973-07-14,Silverstone Circuit,Peter Revson,Ronnie Peterson,Denny Hulme,\N
+614,1973-07-29,Circuit Park Zandvoort,Jackie Stewart,François Cevert,James Hunt,\N
+615,1973-08-05,Nürburgring,Jackie Stewart,François Cevert,Jacky Ickx,\N
+616,1973-08-19,Red Bull Ring,Ronnie Peterson,Jackie Stewart,Carlos Pace,\N
+617,1973-09-09,Autodromo Nazionale di Monza,Ronnie Peterson,Emerson Fittipaldi,Peter Revson,\N
+618,1973-09-23,Mosport International Raceway,Peter Revson,Emerson Fittipaldi,Jackie Oliver,\N
+619,1973-10-07,Watkins Glen,Ronnie Peterson,James Hunt,Carlos Reutemann,\N
+620,1972-01-23,Autódromo Juan y Oscar Gálvez,Jackie Stewart,Denny Hulme,Jacky Ickx,\N
+621,1972-03-04,Kyalami,Denny Hulme,Emerson Fittipaldi,Peter Revson,\N
+622,1972-05-01,Jarama,Emerson Fittipaldi,Jacky Ickx,Clay Regazzoni,\N
+623,1972-05-14,Circuit de Monaco,Jean-Pierre Beltoise,Jacky Ickx,Emerson Fittipaldi,\N
+624,1972-06-04,Nivelles-Baulers,Emerson Fittipaldi,François Cevert,Denny Hulme,\N
+625,1972-07-02,Charade Circuit,Jackie Stewart,Emerson Fittipaldi,Chris Amon,\N
+626,1972-07-15,Brands Hatch,Emerson Fittipaldi,Jackie Stewart,Peter Revson,\N
+627,1972-07-30,Nürburgring,Jacky Ickx,Clay Regazzoni,Ronnie Peterson,\N
+628,1972-08-13,Red Bull Ring,Emerson Fittipaldi,Denny Hulme,Peter Revson,\N
+629,1972-09-10,Autodromo Nazionale di Monza,Emerson Fittipaldi,Mike Hailwood,Denny Hulme,\N
+630,1972-09-24,Mosport International Raceway,Jackie Stewart,Peter Revson,Denny Hulme,\N
+631,1972-10-08,Watkins Glen,Jackie Stewart,François Cevert,Denny Hulme,\N
+632,1971-03-06,Kyalami,Mario Andretti,Jackie Stewart,Clay Regazzoni,\N
+633,1971-04-18,Montjuïc,Jackie Stewart,Jacky Ickx,Chris Amon,\N
+634,1971-05-23,Circuit de Monaco,Jackie Stewart,Ronnie Peterson,Jacky Ickx,\N
+635,1971-06-20,Circuit Park Zandvoort,Jacky Ickx,Pedro Rodríguez,Clay Regazzoni,\N
+636,1971-07-04,Circuit Paul Ricard,Jackie Stewart,François Cevert,Emerson Fittipaldi,\N
+637,1971-07-17,Silverstone Circuit,Jackie Stewart,Ronnie Peterson,Emerson Fittipaldi,\N
+638,1971-08-01,Nürburgring,Jackie Stewart,François Cevert,Clay Regazzoni,\N
+639,1971-08-15,Red Bull Ring,Jo Siffert,Emerson Fittipaldi,Tim Schenken,\N
+640,1971-09-05,Autodromo Nazionale di Monza,Peter Gethin,Ronnie Peterson,François Cevert,\N
+641,1971-09-19,Mosport International Raceway,Jackie Stewart,Ronnie Peterson,Mark Donohue,\N
+642,1971-10-03,Watkins Glen,François Cevert,Jo Siffert,Ronnie Peterson,\N
+643,1970-03-07,Kyalami,Jack Brabham,Denny Hulme,Jackie Stewart,\N
+644,1970-04-19,Jarama,Jackie Stewart,Bruce McLaren,Mario Andretti,\N
+645,1970-05-10,Circuit de Monaco,Jochen Rindt,Jack Brabham,Henri Pescarolo,\N
+646,1970-06-07,Circuit de Spa-Francorchamps,Pedro Rodríguez,Chris Amon,Jean-Pierre Beltoise,\N
+647,1970-06-21,Circuit Park Zandvoort,Jochen Rindt,Jackie Stewart,Jacky Ickx,\N
+648,1970-07-05,Charade Circuit,Jochen Rindt,Chris Amon,Jack Brabham,\N
+649,1970-07-18,Brands Hatch,Jochen Rindt,Jack Brabham,Denny Hulme,\N
+650,1970-08-02,Hockenheimring,Jochen Rindt,Jacky Ickx,Denny Hulme,\N
+17,2009-11-01,Yas Marina Circuit,Sebastian Vettel,Mark Webber,Jenson Button,\N
+651,1970-08-16,Red Bull Ring,Jacky Ickx,Clay Regazzoni,Rolf Stommelen,\N
+652,1970-09-06,Autodromo Nazionale di Monza,Clay Regazzoni,Jackie Stewart,Jean-Pierre Beltoise,\N
+653,1970-09-20,Circuit Mont-Tremblant,Jacky Ickx,Clay Regazzoni,Chris Amon,\N
+654,1970-10-04,Watkins Glen,Emerson Fittipaldi,Pedro Rodríguez,Reine Wisell,\N
+655,1970-10-25,Autódromo Hermanos Rodríguez,Jacky Ickx,Clay Regazzoni,Denny Hulme,\N
+656,1969-03-01,Kyalami,Jackie Stewart,Graham Hill,Denny Hulme,\N
+657,1969-05-04,Montjuïc,Jackie Stewart,Bruce McLaren,Jean-Pierre Beltoise,\N
+658,1969-05-18,Circuit de Monaco,Graham Hill,Piers Courage,Jo Siffert,\N
+659,1969-06-21,Circuit Park Zandvoort,Jackie Stewart,Jo Siffert,Chris Amon,\N
+660,1969-07-06,Charade Circuit,Jackie Stewart,Jean-Pierre Beltoise,Jacky Ickx,\N
+661,1969-07-19,Silverstone Circuit,Jackie Stewart,Jacky Ickx,Bruce McLaren,\N
+662,1969-08-03,Nürburgring,Jacky Ickx,Jackie Stewart,Bruce McLaren,\N
+663,1969-09-07,Autodromo Nazionale di Monza,Jackie Stewart,Jochen Rindt,Jean-Pierre Beltoise,\N
+664,1969-09-20,Mosport International Raceway,Jacky Ickx,Jack Brabham,Jochen Rindt,\N
+665,1969-10-05,Watkins Glen,Jochen Rindt,Piers Courage,John Surtees,\N
+666,1969-10-19,Autódromo Hermanos Rodríguez,Denny Hulme,Jacky Ickx,Jack Brabham,\N
+667,1968-01-01,Kyalami,Jim Clark,Graham Hill,Jochen Rindt,\N
+668,1968-05-12,Jarama,Graham Hill,Denny Hulme,Brian Redman,\N
+669,1968-05-26,Circuit de Monaco,Graham Hill,Richard Attwood,Lucien Bianchi,\N
+670,1968-06-09,Circuit de Spa-Francorchamps,Bruce McLaren,Pedro Rodríguez,Jacky Ickx,\N
+671,1968-06-23,Circuit Park Zandvoort,Jackie Stewart,Jean-Pierre Beltoise,Pedro Rodríguez,\N
+672,1968-07-07,Rouen-Les-Essarts,Jacky Ickx,John Surtees,Jackie Stewart,\N
+673,1968-07-20,Brands Hatch,Jo Siffert,Chris Amon,Jacky Ickx,\N
+674,1968-08-04,Nürburgring,Jackie Stewart,Graham Hill,Jochen Rindt,\N
+675,1968-09-08,Autodromo Nazionale di Monza,Denny Hulme,Johnny Servoz-Gavin,Jacky Ickx,\N
+676,1968-09-22,Circuit Mont-Tremblant,Denny Hulme,Bruce McLaren,Pedro Rodríguez,\N
+677,1968-10-06,Watkins Glen,Jackie Stewart,Graham Hill,John Surtees,\N
+678,1968-11-03,Autódromo Hermanos Rodríguez,Graham Hill,Bruce McLaren,Jackie Oliver,\N
+679,1967-01-02,Kyalami,Pedro Rodríguez,John Love,John Surtees,\N
+680,1967-05-07,Circuit de Monaco,Denny Hulme,Graham Hill,Chris Amon,\N
+681,1967-06-04,Circuit Park Zandvoort,Jim Clark,Jack Brabham,Denny Hulme,\N
+682,1967-06-18,Circuit de Spa-Francorchamps,Dan Gurney,Jackie Stewart,Chris Amon,\N
+683,1967-07-02,Le Mans,Jack Brabham,Denny Hulme,Jackie Stewart,\N
+684,1967-07-15,Silverstone Circuit,Jim Clark,Denny Hulme,Chris Amon,\N
+685,1967-08-06,Nürburgring,Denny Hulme,Jack Brabham,Chris Amon,\N
+686,1967-08-27,Mosport International Raceway,Jack Brabham,Denny Hulme,Dan Gurney,\N
+687,1967-09-10,Autodromo Nazionale di Monza,John Surtees,Jack Brabham,Jim Clark,\N
+688,1967-10-01,Watkins Glen,Jim Clark,Graham Hill,Denny Hulme,\N
+689,1967-10-22,Autódromo Hermanos Rodríguez,Jim Clark,Jack Brabham,Denny Hulme,\N
+690,1966-05-22,Circuit de Monaco,Jackie Stewart,Lorenzo Bandini,Graham Hill,\N
+691,1966-06-12,Circuit de Spa-Francorchamps,John Surtees,Jochen Rindt,Lorenzo Bandini,\N
+692,1966-07-03,Reims-Gueux,Jack Brabham,Mike Parkes,Denny Hulme,\N
+693,1966-07-16,Brands Hatch,Jack Brabham,Denny Hulme,Graham Hill,\N
+694,1966-07-24,Circuit Park Zandvoort,Jack Brabham,Graham Hill,Jim Clark,\N
+695,1966-08-07,Nürburgring,Jack Brabham,John Surtees,Jochen Rindt,\N
+696,1966-09-04,Autodromo Nazionale di Monza,Ludovico Scarfiotti,Mike Parkes,Denny Hulme,\N
+697,1966-10-02,Watkins Glen,Jim Clark,Jochen Rindt,John Surtees,\N
+698,1966-10-23,Autódromo Hermanos Rodríguez,John Surtees,Jack Brabham,Denny Hulme,\N
+699,1965-01-01,Prince George Circuit,Jim Clark,John Surtees,Graham Hill,\N
+700,1965-05-30,Circuit de Monaco,Graham Hill,Lorenzo Bandini,Jackie Stewart,\N
+701,1965-06-13,Circuit de Spa-Francorchamps,Jim Clark,Jackie Stewart,Bruce McLaren,\N
+702,1965-06-27,Charade Circuit,Jim Clark,Jackie Stewart,John Surtees,\N
+703,1965-07-10,Silverstone Circuit,Jim Clark,Graham Hill,John Surtees,\N
+704,1965-07-18,Circuit Park Zandvoort,Jim Clark,Jackie Stewart,Dan Gurney,\N
+705,1965-08-01,Nürburgring,Jim Clark,Graham Hill,Dan Gurney,\N
+706,1965-09-12,Autodromo Nazionale di Monza,Jackie Stewart,Graham Hill,Dan Gurney,\N
+707,1965-10-03,Watkins Glen,Graham Hill,Dan Gurney,Jack Brabham,\N
+708,1965-10-24,Autódromo Hermanos Rodríguez,Richie Ginther,Dan Gurney,Mike Spence,\N
+709,1964-05-10,Circuit de Monaco,Graham Hill,Richie Ginther,Peter Arundell,\N
+710,1964-05-24,Circuit Park Zandvoort,Jim Clark,John Surtees,Peter Arundell,\N
+711,1964-06-14,Circuit de Spa-Francorchamps,Jim Clark,Bruce McLaren,Jack Brabham,\N
+712,1964-06-28,Rouen-Les-Essarts,Dan Gurney,Graham Hill,Jack Brabham,\N
+713,1964-07-11,Brands Hatch,Jim Clark,Graham Hill,John Surtees,\N
+714,1964-08-02,Nürburgring,John Surtees,Graham Hill,Lorenzo Bandini,\N
+715,1964-08-23,Zeltweg,Lorenzo Bandini,Richie Ginther,Bob Anderson,\N
+716,1964-09-06,Autodromo Nazionale di Monza,John Surtees,Bruce McLaren,Lorenzo Bandini,\N
+717,1964-10-04,Watkins Glen,Graham Hill,John Surtees,Jo Siffert,\N
+718,1964-10-25,Autódromo Hermanos Rodríguez,Dan Gurney,John Surtees,Lorenzo Bandini,\N
+719,1963-05-26,Circuit de Monaco,Graham Hill,Richie Ginther,Bruce McLaren,\N
+720,1963-06-09,Circuit de Spa-Francorchamps,Jim Clark,Bruce McLaren,Dan Gurney,\N
+721,1963-06-23,Circuit Park Zandvoort,Jim Clark,Dan Gurney,John Surtees,\N
+722,1963-06-30,Reims-Gueux,Jim Clark,Tony Maggs,Graham Hill,\N
+723,1963-07-20,Silverstone Circuit,Jim Clark,John Surtees,Graham Hill,\N
+724,1963-08-04,Nürburgring,John Surtees,Jim Clark,Richie Ginther,\N
+725,1963-09-08,Autodromo Nazionale di Monza,Jim Clark,Richie Ginther,Bruce McLaren,\N
+726,1963-10-06,Watkins Glen,Graham Hill,Richie Ginther,Jim Clark,\N
+727,1963-10-27,Autódromo Hermanos Rodríguez,Jim Clark,Jack Brabham,Richie Ginther,\N
+729,1962-05-20,Circuit Park Zandvoort,Graham Hill,Trevor Taylor,Phil Hill,\N
+730,1962-06-03,Circuit de Monaco,Bruce McLaren,Phil Hill,Lorenzo Bandini,\N
+731,1962-06-17,Circuit de Spa-Francorchamps,Jim Clark,Graham Hill,Phil Hill,\N
+732,1962-07-08,Rouen-Les-Essarts,Dan Gurney,Tony Maggs,Richie Ginther,\N
+733,1962-07-21,Aintree,Jim Clark,John Surtees,Bruce McLaren,\N
+734,1962-08-05,Nürburgring,Graham Hill,John Surtees,Dan Gurney,\N
+735,1962-09-16,Autodromo Nazionale di Monza,Graham Hill,Richie Ginther,Bruce McLaren,\N
+736,1962-10-07,Watkins Glen,Jim Clark,Graham Hill,Bruce McLaren,\N
+737,1962-12-29,Prince George Circuit,Graham Hill,Bruce McLaren,Tony Maggs,\N
+738,1961-05-14,Circuit de Monaco,Stirling Moss,Richie Ginther,Phil Hill,\N
+739,1961-05-22,Circuit Park Zandvoort,Wolfgang von Trips,Phil Hill,Jim Clark,\N
+740,1961-06-18,Circuit de Spa-Francorchamps,Phil Hill,Wolfgang von Trips,Richie Ginther,\N
+741,1961-07-02,Reims-Gueux,Giancarlo Baghetti,Dan Gurney,Jim Clark,\N
+742,1961-07-15,Aintree,Wolfgang von Trips,Phil Hill,Richie Ginther,\N
+743,1961-08-06,Nürburgring,Stirling Moss,Wolfgang von Trips,Phil Hill,\N
+744,1961-09-10,Autodromo Nazionale di Monza,Phil Hill,Dan Gurney,Bruce McLaren,\N
+745,1961-10-08,Watkins Glen,Innes Ireland,Dan Gurney,Tony Brooks,\N
+746,1960-02-07,Autódromo Juan y Oscar Gálvez,Bruce McLaren,Cliff Allison,Stirling Moss,+36.9
+747,1960-05-29,Circuit de Monaco,Stirling Moss,Bruce McLaren,Phil Hill,\N
+748,1960-05-30,Indianapolis Motor Speedway,Jim Rathmann,Rodger Ward,Paul Goldsmith,\N
+749,1960-06-06,Circuit Park Zandvoort,Jack Brabham,Innes Ireland,Graham Hill,\N
+750,1960-06-19,Circuit de Spa-Francorchamps,Jack Brabham,Bruce McLaren,Olivier Gendebien,\N
+751,1960-07-03,Reims-Gueux,Jack Brabham,Olivier Gendebien,Bruce McLaren,\N
+752,1960-07-16,Silverstone Circuit,Jack Brabham,John Surtees,Innes Ireland,\N
+753,1960-08-14,Circuito da Boavista,Jack Brabham,Bruce McLaren,Jim Clark,\N
+754,1960-09-04,Autodromo Nazionale di Monza,Phil Hill,Richie Ginther,Willy Mairesse,\N
+755,1960-11-20,Riverside International Raceway,Stirling Moss,Innes Ireland,Bruce McLaren,\N
+756,1959-05-10,Circuit de Monaco,Jack Brabham,Tony Brooks,Maurice Trintignant,\N
+757,1959-05-30,Indianapolis Motor Speedway,Rodger Ward,Jim Rathmann,Johnny Thomson,\N
+758,1959-05-31,Circuit Park Zandvoort,Jo Bonnier,Jack Brabham,Masten Gregory,\N
+759,1959-07-05,Reims-Gueux,Tony Brooks,Phil Hill,Jack Brabham,\N
+760,1959-07-18,Aintree,Jack Brabham,Stirling Moss,Bruce McLaren,\N
+761,1959-08-02,AVUS,Tony Brooks,Dan Gurney,Phil Hill,\N
+762,1959-08-23,Monsanto Park Circuit,Stirling Moss,Masten Gregory,Dan Gurney,\N
+763,1959-09-13,Autodromo Nazionale di Monza,Stirling Moss,Phil Hill,Jack Brabham,\N
+764,1959-12-12,Sebring International Raceway,Bruce McLaren,Maurice Trintignant,Tony Brooks,\N
+765,1958-01-19,Autódromo Juan y Oscar Gálvez,Stirling Moss,Luigi Musso,Mike Hawthorn,\N
+766,1958-05-18,Circuit de Monaco,Maurice Trintignant,Luigi Musso,Peter Collins,\N
+767,1958-05-26,Circuit Park Zandvoort,Stirling Moss,Harry Schell,Jean Behra,\N
+768,1958-05-30,Indianapolis Motor Speedway,Jimmy Bryan,George Amick,Johnny Boyd,\N
+769,1958-06-15,Circuit de Spa-Francorchamps,Tony Brooks,Mike Hawthorn,Stuart Lewis-Evans,\N
+770,1958-07-06,Reims-Gueux,Mike Hawthorn,Stirling Moss,Wolfgang von Trips,\N
+771,1958-07-19,Silverstone Circuit,Peter Collins,Mike Hawthorn,Roy Salvadori,\N
+772,1958-08-03,Nürburgring,Tony Brooks,Roy Salvadori,Maurice Trintignant,\N
+773,1958-08-24,Circuito da Boavista,Stirling Moss,Mike Hawthorn,Stuart Lewis-Evans,\N
+774,1958-09-07,Autodromo Nazionale di Monza,Tony Brooks,Mike Hawthorn,Phil Hill,\N
+775,1958-10-19,Ain Diab,Stirling Moss,Mike Hawthorn,Phil Hill,\N
+776,1957-01-13,Autódromo Juan y Oscar Gálvez,Juan Fangio,Jean Behra,Carlos Menditeguy,\N
+777,1957-05-19,Circuit de Monaco,Juan Fangio,Tony Brooks,Masten Gregory,\N
+778,1957-05-30,Indianapolis Motor Speedway,Sam Hanks,Jim Rathmann,Jimmy Bryan,\N
+779,1957-07-07,Rouen-Les-Essarts,Juan Fangio,Luigi Musso,Peter Collins,\N
+780,1957-07-20,Aintree,Stirling Moss,Luigi Musso,Mike Hawthorn,\N
+781,1957-08-04,Nürburgring,Juan Fangio,Mike Hawthorn,Peter Collins,\N
+782,1957-08-18,Pescara Circuit,Stirling Moss,Juan Fangio,Harry Schell,\N
+783,1957-09-08,Autodromo Nazionale di Monza,Stirling Moss,Juan Fangio,Wolfgang von Trips,\N
+784,1956-01-22,Autódromo Juan y Oscar Gálvez,Juan Fangio,Jean Behra,Mike Hawthorn,\N
+785,1956-05-13,Circuit de Monaco,Stirling Moss,Juan Fangio,Jean Behra,\N
+786,1956-05-30,Indianapolis Motor Speedway,Pat Flaherty,Sam Hanks,Don Freeland,\N
+787,1956-06-03,Circuit de Spa-Francorchamps,Peter Collins,Paul Frère,Stirling Moss,+3:16.6
+788,1956-07-01,Reims-Gueux,Peter Collins,Eugenio Castellotti,Jean Behra,\N
+789,1956-07-14,Silverstone Circuit,Juan Fangio,Peter Collins,Jean Behra,\N
+790,1956-08-05,Nürburgring,Juan Fangio,Stirling Moss,Jean Behra,\N
+791,1956-09-02,Autodromo Nazionale di Monza,Stirling Moss,Juan Fangio,Ron Flockhart,\N
+792,1955-01-16,Autódromo Juan y Oscar Gálvez,Juan Fangio,Maurice Trintignant,Umberto Maglioli,\N
+793,1955-05-22,Circuit de Monaco,Maurice Trintignant,Eugenio Castellotti,Cesare Perdisa,\N
+794,1955-05-30,Indianapolis Motor Speedway,Bob Sweikert,Paul Russo,Jimmy Davies,+5:17.17
+795,1955-06-05,Circuit de Spa-Francorchamps,Juan Fangio,Stirling Moss,Nino Farina,\N
+796,1955-06-19,Circuit Park Zandvoort,Juan Fangio,Stirling Moss,Luigi Musso,\N
+797,1955-07-16,Aintree,Stirling Moss,Juan Fangio,Karl Kling,\N
+798,1955-09-11,Autodromo Nazionale di Monza,Juan Fangio,Piero Taruffi,Eugenio Castellotti,\N
+799,1954-01-17,Autódromo Juan y Oscar Gálvez,Juan Fangio,Nino Farina,José Froilán González,\N
+800,1954-05-31,Indianapolis Motor Speedway,Bill Vukovich,Jimmy Bryan,Jack McGrath,\N
+801,1954-06-20,Circuit de Spa-Francorchamps,Juan Fangio,Maurice Trintignant,Stirling Moss,\N
+802,1954-07-04,Reims-Gueux,Juan Fangio,Karl Kling,Robert Manzon,\N
+803,1954-07-17,Silverstone Circuit,José Froilán González,Mike Hawthorn,Onofre Marimón,\N
+804,1954-08-01,Nürburgring,Juan Fangio,Mike Hawthorn,Maurice Trintignant,+1:36.5
+805,1954-08-22,Circuit Bremgarten,Juan Fangio,José Froilán González,Hans Herrmann,\N
+806,1954-09-05,Autodromo Nazionale di Monza,Juan Fangio,Mike Hawthorn,José Froilán González,\N
+807,1954-10-24,Circuit de Pedralbes,Mike Hawthorn,Luigi Musso,Juan Fangio,\N
+808,1953-01-18,Autódromo Juan y Oscar Gálvez,Alberto Ascari,Luigi Villoresi,José Froilán González,\N
+809,1953-05-30,Indianapolis Motor Speedway,Bill Vukovich,Art Cross,Duane Carter,\N
+810,1953-06-07,Circuit Park Zandvoort,Alberto Ascari,Nino Farina,José Froilán González,\N
+811,1953-06-21,Circuit de Spa-Francorchamps,Alberto Ascari,Luigi Villoresi,Onofre Marimón,\N
+812,1953-07-05,Reims-Gueux,Mike Hawthorn,Juan Fangio,José Froilán González,\N
+813,1953-07-18,Silverstone Circuit,Alberto Ascari,Juan Fangio,Nino Farina,\N
+814,1953-08-02,Nürburgring,Nino Farina,Juan Fangio,Mike Hawthorn,\N
+815,1953-08-23,Circuit Bremgarten,Alberto Ascari,Nino Farina,Mike Hawthorn,\N
+816,1953-09-13,Autodromo Nazionale di Monza,Juan Fangio,Nino Farina,Luigi Villoresi,\N
+817,1952-05-18,Circuit Bremgarten,Piero Taruffi,Rudi Fischer,Jean Behra,\N
+818,1952-05-30,Indianapolis Motor Speedway,Troy Ruttman,Jim Rathmann,Sam Hanks,\N
+819,1952-06-22,Circuit de Spa-Francorchamps,Alberto Ascari,Nino Farina,Robert Manzon,\N
+820,1952-07-06,Rouen-Les-Essarts,Alberto Ascari,Nino Farina,Piero Taruffi,\N
+821,1952-07-19,Silverstone Circuit,Alberto Ascari,Piero Taruffi,Mike Hawthorn,\N
+822,1952-08-03,Nürburgring,Alberto Ascari,Nino Farina,Rudi Fischer,\N
+823,1952-08-17,Circuit Park Zandvoort,Alberto Ascari,Nino Farina,Luigi Villoresi,\N
+824,1952-09-07,Autodromo Nazionale di Monza,Alberto Ascari,José Froilán González,Luigi Villoresi,\N
+825,1951-05-27,Circuit Bremgarten,Juan Fangio,Piero Taruffi,Nino Farina,\N
+826,1951-05-30,Indianapolis Motor Speedway,Lee Wallard,Mike Nazaruk,Manny Ayulo,+2:51.39
+827,1951-06-17,Circuit de Spa-Francorchamps,Nino Farina,Alberto Ascari,Luigi Villoresi,\N
+828,1951-07-01,Reims-Gueux,Juan Fangio,José Froilán González,Luigi Villoresi,\N
+829,1951-07-14,Silverstone Circuit,José Froilán González,Juan Fangio,Luigi Villoresi,\N
+830,1951-07-29,Nürburgring,Alberto Ascari,Juan Fangio,José Froilán González,\N
+831,1951-09-16,Autodromo Nazionale di Monza,Alberto Ascari,José Froilán González,Nino Farina,\N
+832,1951-10-28,Circuit de Pedralbes,Juan Fangio,José Froilán González,Nino Farina,\N
+833,1950-05-13,Silverstone Circuit,Nino Farina,Luigi Fagioli,Reg Parnell,\N
+834,1950-05-21,Circuit de Monaco,Juan Fangio,Alberto Ascari,Louis Chiron,\N
+835,1950-05-30,Indianapolis Motor Speedway,Johnnie Parsons,Bill Holland,Mauri Rose,\N
+836,1950-06-04,Circuit Bremgarten,Nino Farina,Luigi Fagioli,Louis Rosier,\N
+837,1950-06-18,Circuit de Spa-Francorchamps,Juan Fangio,Luigi Fagioli,Louis Rosier,\N
+838,1950-07-02,Reims-Gueux,Juan Fangio,Luigi Fagioli,Peter Whitehead,\N
+839,1950-09-03,Autodromo Nazionale di Monza,Nino Farina,Alberto Ascari,Luigi Fagioli,\N
+728,1963-12-28,Prince George Circuit,Jim Clark,Dan Gurney,Graham Hill,\N
+337,2010-03-14,Bahrain International Circuit,Fernando Alonso,Felipe Massa,Lewis Hamilton,\N
+338,2010-03-28,Albert Park Grand Prix Circuit,Jenson Button,Robert Kubica,Felipe Massa,\N
+339,2010-04-04,Sepang International Circuit,Sebastian Vettel,Mark Webber,Nico Rosberg,\N
+340,2010-04-18,Shanghai International Circuit,Jenson Button,Lewis Hamilton,Nico Rosberg,\N
+341,2010-05-09,Circuit de Barcelona-Catalunya,Mark Webber,Fernando Alonso,Sebastian Vettel,\N
+342,2010-05-16,Circuit de Monaco,Mark Webber,Sebastian Vettel,Robert Kubica,\N
+343,2010-05-30,Istanbul Park,Lewis Hamilton,Jenson Button,Mark Webber,\N
+344,2010-06-13,Circuit Gilles Villeneuve,Lewis Hamilton,Jenson Button,Fernando Alonso,\N
+345,2010-06-27,Valencia Street Circuit,Sebastian Vettel,Lewis Hamilton,Jenson Button,\N
+346,2010-07-11,Silverstone Circuit,Mark Webber,Lewis Hamilton,Nico Rosberg,\N
+347,2010-07-25,Hockenheimring,Fernando Alonso,Felipe Massa,Sebastian Vettel,\N
+348,2010-08-01,Hungaroring,Mark Webber,Fernando Alonso,Sebastian Vettel,\N
+349,2010-08-29,Circuit de Spa-Francorchamps,Lewis Hamilton,Mark Webber,Robert Kubica,\N
+350,2010-09-12,Autodromo Nazionale di Monza,Fernando Alonso,Jenson Button,Felipe Massa,\N
+351,2010-09-26,Marina Bay Street Circuit,Fernando Alonso,Sebastian Vettel,Mark Webber,\N
+352,2010-10-10,Suzuka Circuit,Sebastian Vettel,Mark Webber,Fernando Alonso,\N
+353,2010-10-24,Korean International Circuit,Fernando Alonso,Lewis Hamilton,Felipe Massa,\N
+354,2010-11-07,Autódromo José Carlos Pace,Sebastian Vettel,Mark Webber,Fernando Alonso,\N
+355,2010-11-14,Yas Marina Circuit,Sebastian Vettel,Lewis Hamilton,Jenson Button,\N
+841,2011-03-27,Albert Park Grand Prix Circuit,Sebastian Vettel,Lewis Hamilton,Vitaly Petrov,\N
+842,2011-04-10,Sepang International Circuit,Sebastian Vettel,Jenson Button,Nick Heidfeld,\N
+843,2011-04-17,Shanghai International Circuit,Lewis Hamilton,Sebastian Vettel,Mark Webber,\N
+844,2011-05-08,Istanbul Park,Sebastian Vettel,Mark Webber,Fernando Alonso,\N
+845,2011-05-22,Circuit de Barcelona-Catalunya,Sebastian Vettel,Lewis Hamilton,Jenson Button,\N
+846,2011-05-29,Circuit de Monaco,Sebastian Vettel,Fernando Alonso,Jenson Button,\N
+847,2011-06-12,Circuit Gilles Villeneuve,Jenson Button,Sebastian Vettel,Mark Webber,\N
+848,2011-06-26,Valencia Street Circuit,Sebastian Vettel,Fernando Alonso,Mark Webber,\N
+849,2011-07-10,Silverstone Circuit,Fernando Alonso,Sebastian Vettel,Mark Webber,\N
+850,2011-07-24,Nürburgring,Lewis Hamilton,Fernando Alonso,Mark Webber,\N
+851,2011-07-31,Hungaroring,Jenson Button,Sebastian Vettel,Fernando Alonso,\N
+852,2011-08-28,Circuit de Spa-Francorchamps,Sebastian Vettel,Mark Webber,Jenson Button,\N
+853,2011-09-11,Autodromo Nazionale di Monza,Sebastian Vettel,Jenson Button,Fernando Alonso,\N
+854,2011-09-25,Marina Bay Street Circuit,Sebastian Vettel,Jenson Button,Mark Webber,\N
+855,2011-10-09,Suzuka Circuit,Jenson Button,Fernando Alonso,Sebastian Vettel,\N
+856,2011-10-16,Korean International Circuit,Sebastian Vettel,Lewis Hamilton,Mark Webber,\N
+857,2011-10-30,Buddh International Circuit,Sebastian Vettel,Jenson Button,Fernando Alonso,\N
+858,2011-11-13,Yas Marina Circuit,Lewis Hamilton,Fernando Alonso,Jenson Button,\N
+859,2011-11-27,Autódromo José Carlos Pace,Mark Webber,Sebastian Vettel,Jenson Button,\N
+860,2012-03-18,Albert Park Grand Prix Circuit,Jenson Button,Sebastian Vettel,Lewis Hamilton,\N
+861,2012-03-25,Sepang International Circuit,Fernando Alonso,Sergio Pérez,Lewis Hamilton,\N
+862,2012-04-15,Shanghai International Circuit,Nico Rosberg,Jenson Button,Lewis Hamilton,\N
+863,2012-04-22,Bahrain International Circuit,Sebastian Vettel,Kimi Räikkönen,Romain Grosjean,\N
+864,2012-05-13,Circuit de Barcelona-Catalunya,Pastor Maldonado,Fernando Alonso,Kimi Räikkönen,\N
+865,2012-05-27,Circuit de Monaco,Mark Webber,Nico Rosberg,Fernando Alonso,\N
+866,2012-06-10,Circuit Gilles Villeneuve,Lewis Hamilton,Romain Grosjean,Sergio Pérez,\N
+867,2012-06-24,Valencia Street Circuit,Fernando Alonso,Kimi Räikkönen,Michael Schumacher,\N
+868,2012-07-08,Silverstone Circuit,Mark Webber,Fernando Alonso,Sebastian Vettel,\N
+869,2012-07-22,Hockenheimring,Fernando Alonso,Jenson Button,Kimi Räikkönen,\N
+870,2012-07-29,Hungaroring,Lewis Hamilton,Kimi Räikkönen,Romain Grosjean,\N
+871,2012-09-02,Circuit de Spa-Francorchamps,Jenson Button,Sebastian Vettel,Kimi Räikkönen,\N
+872,2012-09-09,Autodromo Nazionale di Monza,Lewis Hamilton,Sergio Pérez,Fernando Alonso,\N
+873,2012-09-23,Marina Bay Street Circuit,Sebastian Vettel,Jenson Button,Fernando Alonso,\N
+874,2012-10-07,Suzuka Circuit,Sebastian Vettel,Felipe Massa,Kamui Kobayashi,\N
+875,2012-10-14,Korean International Circuit,Sebastian Vettel,Mark Webber,Fernando Alonso,\N
+876,2012-10-28,Buddh International Circuit,Sebastian Vettel,Fernando Alonso,Mark Webber,\N
+877,2012-11-04,Yas Marina Circuit,Kimi Räikkönen,Fernando Alonso,Sebastian Vettel,\N
+878,2012-11-18,Circuit of the Americas,Lewis Hamilton,Sebastian Vettel,Fernando Alonso,\N
+879,2012-11-25,Autódromo José Carlos Pace,Jenson Button,Fernando Alonso,Felipe Massa,\N
+880,2013-03-17,Albert Park Grand Prix Circuit,Kimi Räikkönen,Fernando Alonso,Sebastian Vettel,\N
+881,2013-03-24,Sepang International Circuit,Sebastian Vettel,Mark Webber,Lewis Hamilton,\N
+882,2013-04-14,Shanghai International Circuit,Fernando Alonso,Kimi Räikkönen,Lewis Hamilton,\N
+883,2013-04-21,Bahrain International Circuit,Sebastian Vettel,Kimi Räikkönen,Romain Grosjean,\N
+884,2013-05-12,Circuit de Barcelona-Catalunya,Fernando Alonso,Kimi Räikkönen,Felipe Massa,\N
+885,2013-05-26,Circuit de Monaco,Nico Rosberg,Sebastian Vettel,Mark Webber,\N
+886,2013-06-09,Circuit Gilles Villeneuve,Sebastian Vettel,Fernando Alonso,Lewis Hamilton,\N
+887,2013-06-30,Silverstone Circuit,Nico Rosberg,Mark Webber,Fernando Alonso,\N
+888,2013-07-07,Nürburgring,Sebastian Vettel,Kimi Räikkönen,Romain Grosjean,\N
+890,2013-07-28,Hungaroring,Lewis Hamilton,Kimi Räikkönen,Sebastian Vettel,\N
+891,2013-08-25,Circuit de Spa-Francorchamps,Sebastian Vettel,Fernando Alonso,Lewis Hamilton,\N
+892,2013-09-08,Autodromo Nazionale di Monza,Sebastian Vettel,Fernando Alonso,Mark Webber,\N
+893,2013-09-22,Marina Bay Street Circuit,Sebastian Vettel,Fernando Alonso,Kimi Räikkönen,\N
+894,2013-10-06,Korean International Circuit,Sebastian Vettel,Kimi Räikkönen,Romain Grosjean,\N
+895,2013-10-13,Suzuka Circuit,Sebastian Vettel,Mark Webber,Romain Grosjean,\N
+896,2013-10-27,Buddh International Circuit,Sebastian Vettel,Nico Rosberg,Romain Grosjean,\N
+897,2013-11-03,Yas Marina Circuit,Sebastian Vettel,Mark Webber,Nico Rosberg,\N
+898,2013-11-17,Circuit of the Americas,Sebastian Vettel,Romain Grosjean,Mark Webber,\N
+899,2013-11-24,Autódromo José Carlos Pace,Sebastian Vettel,Mark Webber,Fernando Alonso,\N
+900,2014-03-16,Albert Park Grand Prix Circuit,Nico Rosberg,Kevin Magnussen,Jenson Button,+24.525
+901,2014-03-30,Sepang International Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+902,2014-04-06,Bahrain International Circuit,Lewis Hamilton,Nico Rosberg,Sergio Pérez,\N
+903,2014-04-20,Shanghai International Circuit,Lewis Hamilton,Nico Rosberg,Fernando Alonso,\N
+904,2014-05-11,Circuit de Barcelona-Catalunya,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,\N
+905,2014-05-25,Circuit de Monaco,Nico Rosberg,Lewis Hamilton,Daniel Ricciardo,\N
+906,2014-06-08,Circuit Gilles Villeneuve,Daniel Ricciardo,Nico Rosberg,Sebastian Vettel,\N
+907,2014-06-22,Red Bull Ring,Nico Rosberg,Lewis Hamilton,Valtteri Bottas,\N
+908,2014-07-06,Silverstone Circuit,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,\N
+909,2014-07-20,Hockenheimring,Nico Rosberg,Valtteri Bottas,Lewis Hamilton,\N
+910,2014-07-27,Hungaroring,Daniel Ricciardo,Fernando Alonso,Lewis Hamilton,\N
+911,2014-08-24,Circuit de Spa-Francorchamps,Daniel Ricciardo,Nico Rosberg,Valtteri Bottas,\N
+912,2014-09-07,Autodromo Nazionale di Monza,Lewis Hamilton,Nico Rosberg,Felipe Massa,\N
+913,2014-09-21,Marina Bay Street Circuit,Lewis Hamilton,Sebastian Vettel,Daniel Ricciardo,\N
+914,2014-10-05,Suzuka Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+915,2014-10-12,Sochi Autodrom,Lewis Hamilton,Nico Rosberg,Valtteri Bottas,\N
+916,2014-11-02,Circuit of the Americas,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,\N
+917,2014-11-09,Autódromo José Carlos Pace,Nico Rosberg,Lewis Hamilton,Felipe Massa,\N
+918,2014-11-23,Yas Marina Circuit,Lewis Hamilton,Felipe Massa,Valtteri Bottas,\N
+926,2015-03-15,Albert Park Grand Prix Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+927,2015-03-29,Sepang International Circuit,Sebastian Vettel,Lewis Hamilton,Nico Rosberg,\N
+928,2015-04-12,Shanghai International Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+929,2015-04-19,Bahrain International Circuit,Lewis Hamilton,Kimi Räikkönen,Nico Rosberg,\N
+930,2015-05-10,Circuit de Barcelona-Catalunya,Nico Rosberg,Lewis Hamilton,Sebastian Vettel,\N
+931,2015-05-24,Circuit de Monaco,Nico Rosberg,Sebastian Vettel,Lewis Hamilton,\N
+932,2015-06-07,Circuit Gilles Villeneuve,Lewis Hamilton,Nico Rosberg,Valtteri Bottas,\N
+933,2015-06-21,Red Bull Ring,Nico Rosberg,Lewis Hamilton,Felipe Massa,\N
+934,2015-07-05,Silverstone Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+936,2015-07-26,Hungaroring,Sebastian Vettel,Daniil Kvyat,Daniel Ricciardo,\N
+937,2015-08-23,Circuit de Spa-Francorchamps,Lewis Hamilton,Nico Rosberg,Romain Grosjean,\N
+938,2015-09-06,Autodromo Nazionale di Monza,Lewis Hamilton,Sebastian Vettel,Felipe Massa,\N
+939,2015-09-20,Marina Bay Street Circuit,Sebastian Vettel,Daniel Ricciardo,Kimi Räikkönen,\N
+940,2015-09-27,Suzuka Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+941,2015-10-11,Sochi Autodrom,Lewis Hamilton,Sebastian Vettel,Sergio Pérez,+47.566
+942,2015-10-25,Circuit of the Americas,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+943,2015-11-01,Autódromo Hermanos Rodríguez,Nico Rosberg,Lewis Hamilton,Valtteri Bottas,\N
+944,2015-11-15,Autódromo José Carlos Pace,Nico Rosberg,Lewis Hamilton,Sebastian Vettel,\N
+945,2015-11-29,Yas Marina Circuit,Nico Rosberg,Lewis Hamilton,Kimi Räikkönen,\N
+948,2016-03-20,Albert Park Grand Prix Circuit,Nico Rosberg,Lewis Hamilton,Sebastian Vettel,\N
+949,2016-04-03,Bahrain International Circuit,Nico Rosberg,Kimi Räikkönen,Lewis Hamilton,\N
+950,2016-04-17,Shanghai International Circuit,Nico Rosberg,Sebastian Vettel,Daniil Kvyat,\N
+951,2016-05-01,Sochi Autodrom,Nico Rosberg,Lewis Hamilton,Kimi Räikkönen,\N
+952,2016-05-15,Circuit de Barcelona-Catalunya,Max Verstappen,Kimi Räikkönen,Sebastian Vettel,\N
+953,2016-05-29,Circuit de Monaco,Lewis Hamilton,Daniel Ricciardo,Sergio Pérez,\N
+954,2016-06-12,Circuit Gilles Villeneuve,Lewis Hamilton,Sebastian Vettel,Valtteri Bottas,\N
+955,2016-06-19,Baku City Circuit,Nico Rosberg,Sebastian Vettel,Sergio Pérez,\N
+956,2016-07-03,Red Bull Ring,Lewis Hamilton,Max Verstappen,Kimi Räikkönen,\N
+957,2016-07-10,Silverstone Circuit,Lewis Hamilton,Max Verstappen,Nico Rosberg,\N
+958,2016-07-24,Hungaroring,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,\N
+959,2016-07-31,Hockenheimring,Lewis Hamilton,Daniel Ricciardo,Max Verstappen,\N
+960,2016-08-28,Circuit de Spa-Francorchamps,Nico Rosberg,Daniel Ricciardo,Lewis Hamilton,\N
+961,2016-09-04,Autodromo Nazionale di Monza,Nico Rosberg,Lewis Hamilton,Sebastian Vettel,\N
+962,2016-09-18,Marina Bay Street Circuit,Nico Rosberg,Daniel Ricciardo,Lewis Hamilton,\N
+963,2016-10-02,Sepang International Circuit,Daniel Ricciardo,Max Verstappen,Nico Rosberg,\N
+964,2016-10-09,Suzuka Circuit,Nico Rosberg,Max Verstappen,Lewis Hamilton,\N
+965,2016-10-23,Circuit of the Americas,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,\N
+966,2016-10-30,Autódromo Hermanos Rodríguez,Lewis Hamilton,Nico Rosberg,Daniel Ricciardo,\N
+967,2016-11-13,Autódromo José Carlos Pace,Lewis Hamilton,Nico Rosberg,Max Verstappen,\N
+968,2016-11-27,Yas Marina Circuit,Lewis Hamilton,Nico Rosberg,Sebastian Vettel,\N
+969,2017-03-26,Albert Park Grand Prix Circuit,Sebastian Vettel,Lewis Hamilton,Valtteri Bottas,\N
+970,2017-04-09,Shanghai International Circuit,Lewis Hamilton,Sebastian Vettel,Max Verstappen,\N
+971,2017-04-16,Bahrain International Circuit,Sebastian Vettel,Lewis Hamilton,Valtteri Bottas,\N
+972,2017-04-30,Sochi Autodrom,Valtteri Bottas,Sebastian Vettel,Kimi Räikkönen,\N
+973,2017-05-14,Circuit de Barcelona-Catalunya,Lewis Hamilton,Sebastian Vettel,Daniel Ricciardo,\N
+974,2017-05-28,Circuit de Monaco,Sebastian Vettel,Kimi Räikkönen,Daniel Ricciardo,\N
+975,2017-06-11,Circuit Gilles Villeneuve,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,\N
+976,2017-06-25,Baku City Circuit,Daniel Ricciardo,Valtteri Bottas,Lance Stroll,\N
+977,2017-07-09,Red Bull Ring,Valtteri Bottas,Sebastian Vettel,Daniel Ricciardo,\N
+978,2017-07-16,Silverstone Circuit,Lewis Hamilton,Valtteri Bottas,Kimi Räikkönen,\N
+979,2017-07-30,Hungaroring,Sebastian Vettel,Kimi Räikkönen,Valtteri Bottas,\N
+980,2017-08-27,Circuit de Spa-Francorchamps,Lewis Hamilton,Sebastian Vettel,Daniel Ricciardo,\N
+981,2017-09-03,Autodromo Nazionale di Monza,Lewis Hamilton,Valtteri Bottas,Sebastian Vettel,\N
+982,2017-09-17,Marina Bay Street Circuit,Lewis Hamilton,Daniel Ricciardo,Valtteri Bottas,\N
+983,2017-10-01,Sepang International Circuit,Max Verstappen,Lewis Hamilton,Daniel Ricciardo,\N
+984,2017-10-08,Suzuka Circuit,Lewis Hamilton,Max Verstappen,Daniel Ricciardo,\N
+985,2017-10-22,Circuit of the Americas,Lewis Hamilton,Sebastian Vettel,Kimi Räikkönen,\N
+986,2017-10-29,Autódromo Hermanos Rodríguez,Max Verstappen,Valtteri Bottas,Kimi Räikkönen,\N
+987,2017-11-12,Autódromo José Carlos Pace,Sebastian Vettel,Valtteri Bottas,Kimi Räikkönen,\N
+988,2017-11-26,Yas Marina Circuit,Valtteri Bottas,Lewis Hamilton,Sebastian Vettel,\N
+989,2018-03-25,Albert Park Grand Prix Circuit,Sebastian Vettel,Lewis Hamilton,Kimi Räikkönen,\N
+990,2018-04-08,Bahrain International Circuit,Sebastian Vettel,Valtteri Bottas,Lewis Hamilton,\N
+991,2018-04-15,Shanghai International Circuit,Daniel Ricciardo,Valtteri Bottas,Kimi Räikkönen,\N
+992,2018-04-29,Baku City Circuit,Lewis Hamilton,Kimi Räikkönen,Sergio Pérez,\N
+993,2018-05-13,Circuit de Barcelona-Catalunya,Lewis Hamilton,Valtteri Bottas,Max Verstappen,\N
+994,2018-05-27,Circuit de Monaco,Daniel Ricciardo,Sebastian Vettel,Lewis Hamilton,\N
+995,2018-06-10,Circuit Gilles Villeneuve,Sebastian Vettel,Valtteri Bottas,Max Verstappen,\N
+996,2018-06-24,Circuit Paul Ricard,Lewis Hamilton,Max Verstappen,Kimi Räikkönen,\N
+997,2018-07-01,Red Bull Ring,Max Verstappen,Kimi Räikkönen,Sebastian Vettel,\N
+998,2018-07-08,Silverstone Circuit,Sebastian Vettel,Lewis Hamilton,Kimi Räikkönen,\N
+999,2018-07-22,Hockenheimring,Lewis Hamilton,Valtteri Bottas,Kimi Räikkönen,\N
+1000,2018-07-29,Hungaroring,Lewis Hamilton,Sebastian Vettel,Kimi Räikkönen,\N
+1001,2018-08-26,Circuit de Spa-Francorchamps,Sebastian Vettel,Lewis Hamilton,Max Verstappen,\N
+1002,2018-09-02,Autodromo Nazionale di Monza,Lewis Hamilton,Kimi Räikkönen,Valtteri Bottas,+56.320
+1003,2018-09-16,Marina Bay Street Circuit,Lewis Hamilton,Max Verstappen,Sebastian Vettel,\N
+1004,2018-09-30,Sochi Autodrom,Lewis Hamilton,Valtteri Bottas,Sebastian Vettel,\N
+1005,2018-10-07,Suzuka Circuit,Lewis Hamilton,Valtteri Bottas,Max Verstappen,\N
+1006,2018-10-21,Circuit of the Americas,Kimi Räikkönen,Max Verstappen,Lewis Hamilton,\N
+1007,2018-10-28,Autódromo Hermanos Rodríguez,Max Verstappen,Sebastian Vettel,Kimi Räikkönen,\N
+1008,2018-11-11,Autódromo José Carlos Pace,Lewis Hamilton,Max Verstappen,Kimi Räikkönen,\N
+1009,2018-11-25,Yas Marina Circuit,Lewis Hamilton,Sebastian Vettel,Max Verstappen,\N
+1010,2019-03-17,Albert Park Grand Prix Circuit,Valtteri Bottas,Lewis Hamilton,Max Verstappen,\N
+1011,2019-03-31,Bahrain International Circuit,Lewis Hamilton,Valtteri Bottas,Charles Leclerc,\N
+1012,2019-04-14,Shanghai International Circuit,Lewis Hamilton,Valtteri Bottas,Sebastian Vettel,\N
+1013,2019-04-28,Baku City Circuit,Valtteri Bottas,Lewis Hamilton,Sebastian Vettel,\N
+1014,2019-05-12,Circuit de Barcelona-Catalunya,Lewis Hamilton,Valtteri Bottas,Max Verstappen,\N
+1015,2019-05-26,Circuit de Monaco,Lewis Hamilton,Sebastian Vettel,Valtteri Bottas,\N
+1016,2019-06-09,Circuit Gilles Villeneuve,Lewis Hamilton,Sebastian Vettel,Charles Leclerc,\N
+1017,2019-06-23,Circuit Paul Ricard,Lewis Hamilton,Valtteri Bottas,Charles Leclerc,\N
+1018,2019-06-30,Red Bull Ring,Max Verstappen,Charles Leclerc,Valtteri Bottas,\N
+1019,2019-07-14,Silverstone Circuit,Lewis Hamilton,Valtteri Bottas,Charles Leclerc,\N
+1020,2019-07-28,Hockenheimring,Max Verstappen,Sebastian Vettel,Daniil Kvyat,\N
+1021,2019-08-04,Hungaroring,Lewis Hamilton,Max Verstappen,Sebastian Vettel,\N
+1022,2019-09-01,Circuit de Spa-Francorchamps,Charles Leclerc,Lewis Hamilton,Valtteri Bottas,\N
+1023,2019-09-08,Autodromo Nazionale di Monza,Charles Leclerc,Valtteri Bottas,Lewis Hamilton,\N
+1024,2019-09-22,Marina Bay Street Circuit,Sebastian Vettel,Charles Leclerc,Max Verstappen,\N
+1025,2019-09-29,Sochi Autodrom,Lewis Hamilton,Valtteri Bottas,Charles Leclerc,\N
+1026,2019-10-13,Suzuka Circuit,Valtteri Bottas,Sebastian Vettel,Lewis Hamilton,\N
+1027,2019-10-27,Autódromo Hermanos Rodríguez,Lewis Hamilton,Sebastian Vettel,Valtteri Bottas,\N
+1031,2020-07-05,Red Bull Ring,Valtteri Bottas,Charles Leclerc,Lando Norris,\N
+1028,2019-11-03,Circuit of the Americas,Valtteri Bottas,Lewis Hamilton,Max Verstappen,\N
+1029,2019-11-17,Autódromo José Carlos Pace,Max Verstappen,Pierre Gasly,Carlos Sainz,\N
+1030,2019-12-01,Yas Marina Circuit,Lewis Hamilton,Max Verstappen,Charles Leclerc,\N
+1032,2020-07-12,Red Bull Ring,Lewis Hamilton,Valtteri Bottas,Max Verstappen,\N
+1033,2020-07-19,Hungaroring,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1034,2020-08-02,Silverstone Circuit,Lewis Hamilton,Max Verstappen,Charles Leclerc,\N
+1035,2020-08-09,Silverstone Circuit,Max Verstappen,Lewis Hamilton,Valtteri Bottas,\N
+1036,2020-08-16,Circuit de Barcelona-Catalunya,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1037,2020-08-30,Circuit de Spa-Francorchamps,Lewis Hamilton,Valtteri Bottas,Max Verstappen,\N
+1038,2020-09-06,Autodromo Nazionale di Monza,Pierre Gasly,Carlos Sainz,Lance Stroll,\N
+1039,2020-09-13,Autodromo Internazionale del Mugello,Lewis Hamilton,Valtteri Bottas,Alexander Albon,\N
+1040,2020-09-27,Sochi Autodrom,Valtteri Bottas,Max Verstappen,Lewis Hamilton,\N
+1041,2020-10-11,Nürburgring,Lewis Hamilton,Max Verstappen,Daniel Ricciardo,\N
+1042,2020-10-25,Autódromo Internacional do Algarve,Lewis Hamilton,Valtteri Bottas,Max Verstappen,\N
+1043,2020-11-01,Autodromo Enzo e Dino Ferrari,Lewis Hamilton,Valtteri Bottas,Daniel Ricciardo,\N
+1044,2020-11-15,Istanbul Park,Lewis Hamilton,Sergio Pérez,Sebastian Vettel,\N
+1045,2020-11-29,Bahrain International Circuit,Lewis Hamilton,Max Verstappen,Alexander Albon,\N
+1046,2020-12-06,Bahrain International Circuit,Sergio Pérez,Esteban Ocon,Lance Stroll,\N
+1047,2020-12-13,Yas Marina Circuit,Max Verstappen,Valtteri Bottas,Lewis Hamilton,\N
+1052,2021-03-28,Bahrain International Circuit,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1053,2021-04-18,Autodromo Enzo e Dino Ferrari,Max Verstappen,Lewis Hamilton,Lando Norris,\N
+1054,2021-05-02,Autódromo Internacional do Algarve,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1055,2021-05-09,Circuit de Barcelona-Catalunya,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1056,2021-05-23,Circuit de Monaco,Max Verstappen,Carlos Sainz,Lando Norris,\N
+1057,2021-06-06,Baku City Circuit,Sergio Pérez,Sebastian Vettel,Pierre Gasly,\N
+1059,2021-06-20,Circuit Paul Ricard,Max Verstappen,Lewis Hamilton,Sergio Pérez,\N
+1058,2021-06-27,Red Bull Ring,Max Verstappen,Lewis Hamilton,Valtteri Bottas,\N
+1060,2021-07-04,Red Bull Ring,Max Verstappen,Valtteri Bottas,Lando Norris,\N
+1061,2021-07-18,Silverstone Circuit,Lewis Hamilton,Charles Leclerc,Valtteri Bottas,\N
+1062,2021-08-01,Hungaroring,Esteban Ocon,Lewis Hamilton,Carlos Sainz,\N
+1063,2021-08-29,Circuit de Spa-Francorchamps,Max Verstappen,George Russell,Lewis Hamilton,+44.108
+1064,2021-09-05,Circuit Park Zandvoort,Max Verstappen,Lewis Hamilton,Valtteri Bottas,\N
+1065,2021-09-12,Autodromo Nazionale di Monza,Daniel Ricciardo,Lando Norris,Valtteri Bottas,\N
+1066,2021-09-26,Sochi Autodrom,Lewis Hamilton,Max Verstappen,Carlos Sainz,\N
+1067,2021-10-10,Istanbul Park,Valtteri Bottas,Max Verstappen,Sergio Pérez,\N
+1069,2021-10-24,Circuit of the Americas,Max Verstappen,Lewis Hamilton,Sergio Pérez,\N
+1070,2021-11-07,Autódromo Hermanos Rodríguez,Max Verstappen,Lewis Hamilton,Sergio Pérez,\N
+1071,2021-11-14,Autódromo José Carlos Pace,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1051,2021-11-21,Losail International Circuit,Lewis Hamilton,Max Verstappen,Fernando Alonso,\N
+1072,2021-12-05,Jeddah Corniche Circuit,Lewis Hamilton,Max Verstappen,Valtteri Bottas,\N
+1073,2021-12-12,Yas Marina Circuit,Max Verstappen,Lewis Hamilton,Carlos Sainz,\N
+1074,2022-03-20,Bahrain International Circuit,Charles Leclerc,Carlos Sainz,Lewis Hamilton,\N
+1075,2022-03-27,Jeddah Corniche Circuit,Max Verstappen,Charles Leclerc,Carlos Sainz,\N
+1076,2022-04-10,Albert Park Grand Prix Circuit,Charles Leclerc,Sergio Pérez,George Russell,\N
+1077,2022-04-24,Autodromo Enzo e Dino Ferrari,Max Verstappen,Sergio Pérez,Lando Norris,\N
+1078,2022-05-08,Miami International Autodrome,Max Verstappen,Charles Leclerc,Carlos Sainz,\N
+1079,2022-05-22,Circuit de Barcelona-Catalunya,Max Verstappen,Sergio Pérez,George Russell,\N
+1080,2022-05-29,Circuit de Monaco,Sergio Pérez,Carlos Sainz,Max Verstappen,\N
+1081,2022-06-12,Baku City Circuit,Max Verstappen,Sergio Pérez,George Russell,\N
+1082,2022-06-19,Circuit Gilles Villeneuve,Max Verstappen,Carlos Sainz,Lewis Hamilton,\N
+1083,2022-07-03,Silverstone Circuit,Carlos Sainz,Sergio Pérez,Lewis Hamilton,\N
+1084,2022-07-10,Red Bull Ring,Charles Leclerc,Max Verstappen,Lewis Hamilton,\N
+1085,2022-07-24,Circuit Paul Ricard,Max Verstappen,Lewis Hamilton,George Russell,\N
+1086,2022-07-31,Hungaroring,Max Verstappen,Lewis Hamilton,George Russell,\N
+1087,2022-08-28,Circuit de Spa-Francorchamps,Max Verstappen,Sergio Pérez,Carlos Sainz,\N
+1088,2022-09-04,Circuit Park Zandvoort,Max Verstappen,George Russell,Charles Leclerc,\N
+1089,2022-09-11,Autodromo Nazionale di Monza,Max Verstappen,Charles Leclerc,George Russell,\N
+1091,2022-10-02,Marina Bay Street Circuit,Sergio Pérez,Charles Leclerc,Carlos Sainz,\N
+1092,2022-10-09,Suzuka Circuit,Max Verstappen,Sergio Pérez,Charles Leclerc,\N
+1093,2022-10-23,Circuit of the Americas,Max Verstappen,Lewis Hamilton,Charles Leclerc,\N
+1094,2022-10-30,Autódromo Hermanos Rodríguez,Max Verstappen,Lewis Hamilton,Sergio Pérez,\N
+1095,2022-11-13,Autódromo José Carlos Pace,George Russell,Lewis Hamilton,Carlos Sainz,\N
+1096,2022-11-20,Yas Marina Circuit,Max Verstappen,Charles Leclerc,Sergio Pérez,\N
